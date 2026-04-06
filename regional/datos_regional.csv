@@ -1,0 +1,1524 @@
+velocidad,calle,retraso,velocidad_promedio
+3.8200000000000003,Carrera 64A,117,20.878883782009193
+3.9199999999999995,Carrera 64A,113,20.878883782009193
+28.060000000000002,Av. Regional Occidental >(S),98,20.878883782009193
+38.21,Av. Regional Occidental / Calz Derecha >(S),83,20.878883782009193
+28.580000000000002,Av. Regional Occidental / Calz Derecha >(S),161,20.878883782009193
+14.470000000000002,Av. Regional Occidental >(S),330,20.878883782009193
+24.93,Av. Regional Occidental / Calz Derecha >(S),204,20.878883782009193
+14.05,Av. Regional Occidental >(S),396,20.878883782009193
+14.12,Av. Regional Occidental >(S),394,20.878883782009193
+24.57,Av. Regional Occidental / Calz Derecha >(S),210,20.878883782009193
+13.95,Av. Regional Occidental >(S),363,20.878883782009193
+22.619999999999997,Av. Regional Occidental / Calz Derecha >(S),216,20.878883782009193
+11.43,Av. Regional Occidental >(S),268,20.878883782009193
+13.459999999999999,Av. Regional Occidental >(S),197,20.878883782009193
+25.85,Av. Regional Occidental / Calz Derecha >(S),173,20.878883782009193
+16.660000000000004,Av. Regional Occidental / Calz Derecha >(S),255,20.878883782009193
+20.03,Av. Regional Occidental / Calz Derecha >(S),261,20.878883782009193
+19.96,Av. Regional Occidental / Calz Izquierda >(S),127,20.878883782009193
+16.9,Av. Regional Occidental >(N),173,20.878883782009193
+11.120000000000001,Av. Regional Occidental / Calz Derecha >(S),430,20.878883782009193
+19.47,Av. Regional Occidental / Calz Izquierda >(S),132,20.878883782009193
+17.279999999999998,Av. Regional Occidental >(N),166,20.878883782009193
+9.8,Av. Regional Occidental / Calz Derecha >(S),500,20.878883782009193
+18.46,Av. Regional Occidental >(N),148,20.878883782009193
+10.459999999999999,Av. Regional Occidental / Calz Derecha >(S),463,20.878883782009193
+18.94,Av. Regional Occidental >(N),97,20.878883782009193
+13.940000000000001,Av. Regional Occidental / Calz Izquierda >(S),206,20.878883782009193
+18.119999999999997,Av. Regional Occidental >(N),105,20.878883782009193
+18.990000000000002,Av. Regional Occidental >(N),96,20.878883782009193
+22.79,Av. Regional Occidental >(N),65,20.878883782009193
+28.130000000000003,Av. Regional Oriental >(N),64,20.878883782009193
+14.59,Av. Regional Occidental / Calz Derecha >(S),305,20.878883782009193
+18.96,Av. Regional Occidental / Calz Izquierda >(S),306,20.878883782009193
+28.79,Av. Regional Oriental >(N),61,20.878883782009193
+14.87,Av. Regional Occidental / Calz Derecha >(S),297,20.878883782009193
+14.739999999999998,Av. Regional Occidental / Calz Derecha >(S),300,20.878883782009193
+16.38,Av. Regional Occidental / Calz Izquierda >(S),374,20.878883782009193
+13.91,Av. Regional Occidental / Calz Derecha >(S),324,20.878883782009193
+10.32,Av. Regional Occidental / Calz Izquierda >(S),408,20.878883782009193
+14.02,Av. Regional Occidental / Calz Derecha >(S),321,20.878883782009193
+11.530000000000001,Av. Regional Occidental / Calz Izquierda >(S),358,20.878883782009193
+13.99,Av. Regional Occidental / Calz Derecha >(S),322,20.878883782009193
+12.55,Av. Regional Occidental / Calz Derecha >(S),370,20.878883782009193
+10.309999999999999,Av. Regional Occidental / Calz Izquierda >(S),409,20.878883782009193
+11.889999999999999,Av. Regional Occidental / Calz Derecha >(S),395,20.878883782009193
+15.16,Av. Regional Occidental / Calz Derecha >(S),289,20.878883782009193
+13.61,Av. Regional Occidental / Calz Derecha >(S),366,20.878883782009193
+11.25,Av. Regional Occidental / Calz Izquierda >(S),366,20.878883782009193
+12.940000000000001,Av. Regional Occidental / Calz Derecha >(S),391,20.878883782009193
+11.59,Av. Regional Occidental / Calz Izquierda >(S),352,20.878883782009193
+9.86,Av. Regional Occidental / Calz Derecha >(S),483,20.878883782009193
+9.65,Av. Regional Occidental / Calz Izquierda >(S),323,20.878883782009193
+10.74,Av. Regional Occidental / Calz Derecha >(S),508,20.878883782009193
+9.54,Av. Regional Occidental / Calz Derecha >(S),585,20.878883782009193
+10.09,Av. Regional Occidental / Calz Derecha >(S),547,20.878883782009193
+9.98,Av. Regional Occidental / Calz Derecha >(S),489,20.878883782009193
+12.53,Av. Regional Occidental / Calz Izquierda >(S),231,20.878883782009193
+12.9,Av. Regional Occidental / Calz Derecha >(S),357,20.878883782009193
+13.770000000000001,Av. Regional Occidental / Calz Izquierda >(S),205,20.878883782009193
+13.969999999999999,Av. Regional Occidental / Calz Derecha >(S),322,20.878883782009193
+18.1,Av. Regional Occidental / Calz Derecha >(S),227,20.878883782009193
+14.63,Av. Regional Occidental / Calz Izquierda >(S),194,20.878883782009193
+17.339999999999996,Av. Regional Occidental / Calz Derecha >(S),229,20.878883782009193
+13.12,Av. Regional Occidental / Calz Izquierda >(S),223,20.878883782009193
+18.71,Av. Regional Occidental / Calz Derecha >(S),176,20.878883782009193
+23.490000000000002,Av. Regional Occidental / Calz Derecha >(S),89,20.878883782009193
+13.15,Av. Regional Occidental / Calz Izquierda >(S),222,20.878883782009193
+20.88,Av. Regional Occidental / Calz Derecha >(S),108,20.878883782009193
+15.430000000000001,Av. Regional Occidental / Calz Izquierda >(S),177,20.878883782009193
+23.860000000000003,Av. Regional / Calz. Derecha,186,20.878883782009193
+23.5,Av. Regional Occidental / Calz Izquierda >(S),99,20.878883782009193
+25.869999999999997,Av. Regional Occidental / Calz Derecha >(S),76,20.878883782009193
+28.130000000000003,Av. Regional Occidental / Calz Derecha >(S),65,20.878883782009193
+31.71,Av. Regional / Calz. Derecha,79,20.878883782009193
+30.2,Av. Regional / Calz. Derecha,87,20.878883782009193
+28.18,Av. Regional Oriental >(N),70,20.878883782009193
+21.29,Av. Regional Oriental >(N),85,20.878883782009193
+42.13,Av. Regional / Calz. Izquierda,53,20.878883782009193
+34.730000000000004,Av. Regional / Calz. Derecha,96,20.878883782009193
+13.459999999999999,Av. Regional Occidental / Calz Derecha >(S),195,20.878883782009193
+35.120000000000005,Av. Regional / Calz. Derecha,83,20.878883782009193
+33.95,Av. Regional / Calz. Izquierda,86,20.878883782009193
+18.85,Av. Regional Oriental >(N),102,20.878883782009193
+20.619999999999997,Av. Regional Oriental >(N),90,20.878883782009193
+15.330000000000002,Av. Regional Occidental / Calz Derecha >(S),233,20.878883782009193
+16.479999999999997,Av. Regional Occidental / Calz Derecha >(S),225,20.878883782009193
+17.81,Av. Regional Occidental / Calz Derecha >(S),201,20.878883782009193
+22.47,Av. Regional Oriental >(N),79,20.878883782009193
+35.87,Av. Regional / Calz. Izquierda,69,20.878883782009193
+40.760000000000005,Av. Regional / Calz. Izquierda,52,20.878883782009193
+24.04,Av. Regional Oriental >(N),91,20.878883782009193
+23.35,Av. Regional Oriental >(N),97,20.878883782009193
+43.47,Av. Regional / Calz. Izquierda,48,20.878883782009193
+22.56,Av. Regional Oriental >(N),102,20.878883782009193
+27.96,Av. Regional Occidental / Calz Derecha >(S),66,20.878883782009193
+34.55,Av. Regional / Calz. Derecha,60,20.878883782009193
+36.23,Av. Regional / Calz. Derecha,82,20.878883782009193
+35.86,Av. Regional / Calz. Derecha,90,20.878883782009193
+46.480000000000004,Av. Regional / Calz. Izquierda,40,20.878883782009193
+24.15,Av. Regional Occidental >(N),94,20.878883782009193
+22.389999999999997,Av. Regional Occidental >(N),112,20.878883782009193
+17.419999999999998,Av. Regional Occidental >(N),74,20.878883782009193
+28.07,Av. Regional / Calz. Izquierda,164,20.878883782009193
+11.66,Av. Regional / Calz. Derecha,657,20.878883782009193
+11.33,Av. Regional / Calz. Derecha,681,20.878883782009193
+29.380000000000003,Av. Regional / Calz. Izquierda,152,20.878883782009193
+28.580000000000002,Av. Regional / Calz. Izquierda,159,20.878883782009193
+23.51,Av. Regional / Calz. Derecha,477,20.878883782009193
+29.270000000000003,Av. Regional / Calz. Izquierda,152,20.878883782009193
+29.029999999999994,Av. Regional / Calz. Izquierda,155,20.878883782009193
+20.88,Av. Regional Oriental >(N),115,20.878883782009193
+27.259999999999998,Av. Regional / Calz. Izquierda,128,20.878883782009193
+27.540000000000003,Av. Regional / Calz. Izquierda,126,20.878883782009193
+22.55,Av. Regional Oriental >(N),78,20.878883782009193
+39.4,Av. Regional / Calz. Izquierda,56,20.878883782009193
+12.129999999999999,Av. Regional Oriental,154,20.878883782009193
+12.22,Av. Regional Oriental,153,20.878883782009193
+8.45,Av. Regional Oriental,237,20.878883782009193
+7.209999999999999,Av. Regional / Calz Izquierda,262,20.878883782009193
+6.99,Av. Regional / Calz Izquierda,271,20.878883782009193
+45.28,Av. Regional / Calz. Derecha,70,20.878883782009193
+8.319999999999999,Av. Regional Oriental,241,20.878883782009193
+8.040000000000001,Av. Regional Oriental,251,20.878883782009193
+5.7700000000000005,Av. Regional / Calz Izquierda,336,20.878883782009193
+7.99,Av. Regional Oriental,253,20.878883782009193
+23.14,Av. Regional Occidental / Calz Derecha >(S),92,20.878883782009193
+11.040000000000001,Av. Regional Occidental >(S),273,20.878883782009193
+7.55,Av. Regional Oriental,269,20.878883782009193
+10.32,Av. Regional Occidental >(S),292,20.878883782009193
+25.4,Av. Regional Occidental / Calz Derecha >(S),78,20.878883782009193
+7.720000000000001,Av. Regional Oriental,263,20.878883782009193
+38.84,Av. Regional / Calz. Derecha,61,20.878883782009193
+16.61,Av. Regional / Calz Izquierda,281,20.878883782009193
+10.0,Av. Regional Occidental >(S),249,20.878883782009193
+42.13,Av. Regional / Calz. Derecha,118,20.878883782009193
+26.380000000000003,Av. Regional Occidental / Calz Derecha >(S),73,20.878883782009193
+10.260000000000002,Av. Regional / Calz Izquierda,325,20.878883782009193
+10.52,Av. Regional Occidental >(S),257,20.878883782009193
+8.91,Av. Regional Oriental,223,20.878883782009193
+12.819999999999999,Av. Regional / Calz Izquierda,305,20.878883782009193
+27.589999999999996,Av. Regional Occidental / Calz Derecha >(S),67,20.878883782009193
+9.03,Av. Regional Oriental,219,20.878883782009193
+37.77,Av. Regional / Calz. Derecha,72,20.878883782009193
+11.309999999999999,Av. Regional Occidental >(S),112,20.878883782009193
+9.669999999999998,Av. Regional Oriental,203,20.878883782009193
+24.39,Av. Regional Occidental / Calz Derecha >(S),84,20.878883782009193
+40.14,Av. Regional / Calz. Derecha,47,20.878883782009193
+23.07,Av. Regional Occidental / Calz Derecha >(S),92,20.878883782009193
+14.690000000000001,Av. Regional Occidental >(S),149,20.878883782009193
+8.219999999999999,Av. Regional / Calz Izquierda,419,20.878883782009193
+25.35,Av. Regional Occidental / Calz Derecha >(S),78,20.878883782009193
+17.07,Av. Regional Oriental,100,20.878883782009193
+22.009999999999998,Av. Regional Oriental,80,20.878883782009193
+23.33,Av. Regional Occidental / Calz Derecha >(S),90,20.878883782009193
+45.89,Av. Regional / Calz. Derecha,34,20.878883782009193
+21.160000000000004,Av. Regional Oriental >(N),86,20.878883782009193
+23.77,Av. Regional Occidental / Calz Derecha >(S),88,20.878883782009193
+26.49,Av. Regional Occidental / Calz Derecha >(S),72,20.878883782009193
+28.540000000000003,Av. Regional Occidental / Calz Derecha >(S),63,20.878883782009193
+14.3,Av. Regional Oriental >(N),191,20.878883782009193
+15.960000000000003,Av. Regional Oriental,126,20.878883782009193
+15.319999999999999,Av. Regional Oriental >(N),177,20.878883782009193
+14.579999999999998,Av. Regional Oriental >(N),189,20.878883782009193
+24.13,Av. Regional Occidental >(N),93,20.878883782009193
+17.52,Av. Regional Oriental,111,20.878883782009193
+25.46,Av. Regional Occidental >(N),103,20.878883782009193
+25.740000000000002,Av. Regional Occidental >(N),100,20.878883782009193
+20.07,Av. Regional Occidental >(S),225,20.878883782009193
+18.439999999999998,Av. Regional Oriental,104,20.878883782009193
+38.78,Av. Regional / Calz. Derecha,119,20.878883782009193
+18.64,Av. Regional Oriental,102,20.878883782009193
+32.44,Av. Regional / Calz. Derecha,153,20.878883782009193
+13.219999999999999,Av. Regional Oriental >(N),211,20.878883782009193
+22.009999999999998,Av. Regional / Calz. Derecha,80,20.878883782009193
+28.18,Av. Regional / Calz. Derecha,110,20.878883782009193
+28.869999999999997,Av. Regional / Calz. Derecha,73,20.878883782009193
+28.689999999999998,Av. Regional Occidental >(N),110,20.878883782009193
+18.81,Av. Regional Occidental >(S),116,20.878883782009193
+22.229999999999997,Av. Regional Occidental >(N),136,20.878883782009193
+14.85,Av. Regional Oriental >(N),182,20.878883782009193
+13.309999999999999,Av. Regional Occidental >(S),144,20.878883782009193
+15.820000000000002,Av. Regional Occidental >(S),139,20.878883782009193
+16.2,Av. Regional Occidental >(S),146,20.878883782009193
+13.309999999999999,Av. Regional Occidental >(S),144,20.878883782009193
+36.410000000000004,Av. Regional / Calz. Derecha,58,20.878883782009193
+21.08,Av. Regional Oriental,86,20.878883782009193
+28.18,Av. Regional Occidental / Calz Derecha >(S),65,20.878883782009193
+17.419999999999998,Av. Regional Oriental,112,20.878883782009193
+15.929999999999998,Av. Regional Oriental >(N),168,20.878883782009193
+16.35,Av. Regional Oriental >(N),162,20.878883782009193
+14.59,Av. Regional Occidental >(S),327,20.878883782009193
+20.4,Av. Regional Oriental,90,20.878883782009193
+22.009999999999998,Av. Regional / Calz. Derecha,119,20.878883782009193
+12.84,Av. Regional Oriental >(N),222,20.878883782009193
+15.570000000000002,Av. Regional Oriental,130,20.878883782009193
+15.739999999999998,Av. Regional Oriental,128,20.878883782009193
+26.1,Av. Regional Occidental >(N),94,20.878883782009193
+18.55,Av. Regional Occidental >(S),94,20.878883782009193
+11.819999999999999,Av. Regional Oriental >(N),246,20.878883782009193
+17.16,Av. Regional Oriental,114,20.878883782009193
+16.169999999999998,Av. Regional Occidental >(S),149,20.878883782009193
+26.869999999999997,Av. Regional Occidental / Calz Derecha >(S),84,20.878883782009193
+19.919999999999998,Av. Regional / Calz Izquierda,140,20.878883782009193
+27.04,Av. Regional Occidental / Calz Derecha >(S),70,20.878883782009193
+14.430000000000001,Av. Regional Occidental >(S),282,20.878883782009193
+14.079999999999998,Av. Regional Oriental >(N),198,20.878883782009193
+14.95,Av. Regional / Calz Izquierda,110,20.878883782009193
+16.39,Av. Regional / Calz Izquierda,98,20.878883782009193
+17.16,Av. Regional Oriental >(N),201,20.878883782009193
+13.6,Av. Regional Occidental >(S),376,20.878883782009193
+25.46,Av. Regional Occidental >(N),83,20.878883782009193
+19.529999999999998,Av. Regional Oriental >(N),190,20.878883782009193
+11.889999999999999,Av. Regional Occidental >(S),386,20.878883782009193
+29.57,Av. Regional Occidental >(N),90,20.878883782009193
+26.02,Av. Regional Occidental >(N),129,20.878883782009193
+19.03,Av. Regional Oriental >(N),198,20.878883782009193
+25.29,Av. Regional Occidental >(N),138,20.878883782009193
+48.39,Av. Regional / Calz. Izquierda,48,20.878883782009193
+22.14,Av. Regional Occidental >(N),186,20.878883782009193
+12.78,Av. Regional Occidental >(S),394,20.878883782009193
+18.080000000000002,Av. Regional Occidental >(N),198,20.878883782009193
+27.22,Av. Regional Occidental / Calz Derecha >(S),69,20.878883782009193
+21.15,Av. Regional Oriental >(N),169,20.878883782009193
+13.9,Av. Regional Occidental >(S),365,20.878883782009193
+17.95,Av. Regional Occidental >(N),200,20.878883782009193
+18.41,Av. Regional Oriental >(N),182,20.878883782009193
+15.180000000000001,Av. Regional Occidental >(N),266,20.878883782009193
+14.579999999999998,Av. Regional Oriental >(N),189,20.878883782009193
+17.98,Av. Regional Occidental >(S),246,20.878883782009193
+12.33,Av. Regional Occidental >(N),324,20.878883782009193
+48.940000000000005,Av. Regional / Calz. Izquierda,46,20.878883782009193
+17.38,Av. Regional Oriental >(N),197,20.878883782009193
+15.209999999999999,Av. Regional Occidental >(N),362,20.878883782009193
+16.39,Av. Regional Oriental >(N),162,20.878883782009193
+15.479999999999999,Av. Regional Occidental >(N),400,20.878883782009193
+21.240000000000002,Av. Regional Occidental / Calz Derecha >(S),102,20.878883782009193
+17.57,Av. Regional Oriental >(N),147,20.878883782009193
+16.270000000000003,Av. Regional Occidental >(S),214,20.878883782009193
+31.76,Av. Regional / Calz. Derecha,71,20.878883782009193
+17.279999999999998,Av. Regional Occidental >(S),194,20.878883782009193
+32.03,Av. Regional / Calz. Derecha,64,20.878883782009193
+17.560000000000002,Av. Regional Occidental >(S),130,20.878883782009193
+17.660000000000004,Av. Regional Occidental >(N),322,20.878883782009193
+18.18,Av. Regional Occidental >(N),307,20.878883782009193
+20.88,Av. Regional Occidental / Calz Derecha >(S),106,20.878883782009193
+40.55,Av. Regional / Calz. Derecha,61,20.878883782009193
+19.910000000000004,Av. Regional Occidental >(S),105,20.878883782009193
+21.28,Av. Regional Occidental / Calz Derecha >(S),122,20.878883782009193
+17.14,Av. Regional Oriental >(N),152,20.878883782009193
+21.41,Av. Regional Occidental / Calz Derecha >(S),95,20.878883782009193
+43.57,Av. Regional / Calz. Derecha,61,20.878883782009193
+45.25,Av. Regional / Calz. Derecha,64,20.878883782009193
+18.81,Av. Regional Occidental >(S),101,20.878883782009193
+42.720000000000006,Av. Regional / Calz. Derecha,54,20.878883782009193
+18.57,Av. Regional Occidental >(S),70,20.878883782009193
+20.82,Av. Regional Occidental >(N),80,20.878883782009193
+16.6,Av. Regional Oriental >(N),159,20.878883782009193
+13.629999999999999,Av. Regional Oriental >(N),206,20.878883782009193
+26.130000000000003,Av. Regional Occidental / Calz Derecha >(S),68,20.878883782009193
+15.280000000000001,Av. Regional Oriental >(N),175,20.878883782009193
+13.919999999999998,Av. Regional Oriental >(N),197,20.878883782009193
+22.31,Av. Regional Occidental >(N),55,20.878883782009193
+11.23,Av. Regional Oriental >(N),258,20.878883782009193
+23.44,Av. Regional Occidental / Calz Derecha >(S),90,20.878883782009193
+13.64,Av. Regional Oriental,154,20.878883782009193
+25.18,Av. Regional Occidental / Calz Derecha >(S),79,20.878883782009193
+11.76,Av. Regional Oriental,185,20.878883782009193
+43.08,Av. Regional / Calz. Derecha,48,20.878883782009193
+9.97,Av. Regional Oriental,226,20.878883782009193
+7.470000000000001,Av. Regional Oriental >(N),416,20.878883782009193
+10.469999999999999,Av. Regional Oriental,213,20.878883782009193
+37.36,Av. Regional / Calz Izquierda,77,20.878883782009193
+45.57,Av. Regional / Calz. Derecha,102,20.878883782009193
+7.480000000000001,Av. Regional Oriental >(N),415,20.878883782009193
+13.669999999999998,Av. Regional Occidental >(N),103,20.878883782009193
+44.71,Av. Regional / Calz. Derecha,60,20.878883782009193
+45.29,Av. Regional / Calz. Izquierda,43,20.878883782009193
+9.77,Av. Regional Oriental,231,20.878883782009193
+7.65,Av. Regional Oriental >(N),405,20.878883782009193
+27.35,Av. Regional / Calz Izquierda,106,20.878883782009193
+9.74,Av. Regional Oriental,232,20.878883782009193
+8.89,Av. Regional Oriental,258,20.878883782009193
+11.02,Av. Regional / Calz Izquierda,134,20.878883782009193
+27.619999999999997,Av. Regional / Calz. Izquierda,125,20.878883782009193
+8.739999999999998,Av. Regional Oriental,263,20.878883782009193
+24.15,Av. Regional / Calz. Izquierda,156,20.878883782009193
+11.72,Av. Regional Oriental,186,20.878883782009193
+24.1,Av. Regional / Calz. Izquierda,156,20.878883782009193
+12.36,Av. Regional Oriental >(N),233,20.878883782009193
+24.57,Av. Regional / Calz Izquierda,231,20.878883782009193
+13.309999999999999,Av. Regional Oriental >(N),213,20.878883782009193
+11.96,Av. Regional Oriental,182,20.878883782009193
+18.740000000000002,Av. Regional / Calz Izquierda,187,20.878883782009193
+15.89,Av. Regional Oriental >(N),255,20.878883782009193
+11.379999999999999,Av. Regional Oriental,193,20.878883782009193
+11.96,Av. Regional Oriental >(N),239,20.878883782009193
+10.65,Av. Regional / Calz Izquierda,167,20.878883782009193
+11.05,Av. Regional / Calz Izquierda,160,20.878883782009193
+28.9,Av. Regional Occidental >(N),66,20.878883782009193
+11.86,Av. Regional Oriental >(N),245,20.878883782009193
+37.86,Av. Regional / Calz. Izquierda,61,20.878883782009193
+23.98,Av. Regional Occidental / Calz Derecha >(S),86,20.878883782009193
+37.05,Av. Regional / Calz. Izquierda,64,20.878883782009193
+26.65,Av. Regional / Calz Izquierda,203,20.878883782009193
+35.5,Av. Regional / Calz. Derecha,86,20.878883782009193
+35.81,Av. Regional / Calz. Izquierda,77,20.878883782009193
+37.0,Av. Regional / Calz. Izquierda,69,20.878883782009193
+14.14,Av. Regional Oriental >(N),197,20.878883782009193
+34.67999999999999,Av. Regional / Calz. Derecha,90,20.878883782009193
+18.17,Av. Regional Occidental / Calz Derecha >(S),133,20.878883782009193
+38.220000000000006,Av. Regional / Calz. Izquierda,67,20.878883782009193
+19.16,Av. Regional Occidental / Calz Derecha >(S),153,20.878883782009193
+34.660000000000004,Av. Regional / Calz. Izquierda,238,20.878883782009193
+12.88,Av. Regional Oriental,166,20.878883782009193
+12.1,Av. Regional Oriental >(N),235,20.878883782009193
+27.43,Av. Regional / Calz Izquierda,173,20.878883782009193
+45.67999999999999,Av. Regional / Calz. Izquierda,42,20.878883782009193
+27.169999999999998,Av. Regional / Calz. Izquierda,193,20.878883782009193
+12.040000000000001,Av. Regional Oriental,180,20.878883782009193
+26.75,Av. Regional / Calz Izquierda,180,20.878883782009193
+26.669999999999998,Av. Regional / Calz. Izquierda,198,20.878883782009193
+28.25,Av. Regional / Calz. Derecha,333,20.878883782009193
+32.05,Av. Regional / Calz. Izquierda,264,20.878883782009193
+13.3,Av. Regional Oriental >(N),209,20.878883782009193
+17.39,Av. Regional Occidental / Calz Derecha >(S),142,20.878883782009193
+18.490000000000002,Av. Regional Oriental >(N),206,20.878883782009193
+20.89,Av. Regional Oriental >(N),172,20.878883782009193
+23.05,Av. Regional Oriental >(N),148,20.878883782009193
+20.580000000000002,Av. Regional Occidental / Calz Derecha >(S),110,20.878883782009193
+29.060000000000002,Av. Regional Oriental >(N),98,20.878883782009193
+32.72,Av. Regional / Calz Izquierda,121,20.878883782009193
+23.15,Av. Regional / Calz. Izquierda,383,20.878883782009193
+20.45,Av. Regional Occidental / Calz Derecha >(S),138,20.878883782009193
+32.28,Av. Regional Oriental >(N),79,20.878883782009193
+19.72,Av. Regional Occidental >(N),265,20.878883782009193
+22.35,Av. Regional / Calz. Izquierda,404,20.878883782009193
+17.79,Av. Regional Occidental / Calz Derecha >(S),169,20.878883782009193
+18.38,Av. Regional Occidental >(N),301,20.878883782009193
+15.530000000000001,Av. Regional Oriental >(N),91,20.878883782009193
+18.419999999999998,Av. Regional Occidental / Calz Derecha >(S),161,20.878883782009193
+17.7,Av. Regional Occidental >(N),321,20.878883782009193
+22.55,Av. Regional / Calz. Izquierda,398,20.878883782009193
+19.979999999999997,Av. Regional Oriental,93,20.878883782009193
+13.469999999999999,Av. Regional Oriental >(N),122,20.878883782009193
+39.43,Av. Regional / Calz Izquierda,82,20.878883782009193
+24.73,Av. Regional / Calz. Izquierda,329,20.878883782009193
+42.86,Av. Regional / Calz Izquierda,79,20.878883782009193
+27.580000000000002,Av. Regional Occidental / Calz Derecha >(S),67,20.878883782009193
+20.85,Av. Regional Occidental >(N),238,20.878883782009193
+14.209999999999999,Av. Regional Oriental >(N),114,20.878883782009193
+23.259999999999998,Av. Regional / Calz. Derecha,461,20.878883782009193
+18.689999999999998,Av. Regional Oriental,102,20.878883782009193
+23.419999999999998,Av. Regional Oriental >(N),144,20.878883782009193
+29.05,Av. Regional Occidental / Calz Derecha >(S),61,20.878883782009193
+37.64,Av. Regional / Calz. Izquierda,161,20.878883782009193
+21.05,Av. Regional Oriental >(N),170,20.878883782009193
+31.0,Av. Regional / Calz. Izquierda,102,20.878883782009193
+16.470000000000002,Av. Regional Oriental >(N),243,20.878883782009193
+14.11,Av. Regional Oriental >(N),298,20.878883782009193
+35.22,Av. Regional / Calz Izquierda,123,20.878883782009193
+41.15,Av. Regional / Calz. Izquierda,54,20.878883782009193
+11.9,Av. Regional Oriental >(N),371,20.878883782009193
+29.330000000000002,Av. Regional / Calz. Derecha,267,20.878883782009193
+37.5,Av. Regional / Calz. Izquierda,70,20.878883782009193
+11.96,Av. Regional Oriental >(N),368,20.878883782009193
+38.760000000000005,Av. Regional / Calz Izquierda,100,20.878883782009193
+28.860000000000003,Av. Regional / Calz. Derecha,262,20.878883782009193
+20.09,Av. Regional Oriental,92,20.878883782009193
+32.08,Av. Regional / Calz. Izquierda,92,20.878883782009193
+38.53,Av. Regional / Calz Izquierda,102,20.878883782009193
+18.419999999999998,Av. Regional Oriental,104,20.878883782009193
+25.169999999999998,Av. Regional / Calz. Izquierda,140,20.878883782009193
+29.330000000000002,Av. Regional / Calz. Derecha,191,20.878883782009193
+18.41,Av. Regional Occidental >(N),176,20.878883782009193
+23.77,Av. Regional / Calz. Izquierda,154,20.878883782009193
+12.57,Av. Regional Oriental >(N),346,20.878883782009193
+5.75,Av. Regional Occidental / Calz Izquierda >(S),342,20.878883782009193
+35.14,Av. Regional / Calz Izquierda,124,20.878883782009193
+19.03,Av. Regional Oriental,99,20.878883782009193
+24.12,Av. Regional Occidental >(N),175,20.878883782009193
+22.36,Av. Regional / Calz. Izquierda,169,20.878883782009193
+4.779999999999999,Av. Regional Occidental / Calz Izquierda >(S),695,20.878883782009193
+35.230000000000004,Av. Regional / Calz Izquierda,123,20.878883782009193
+35.35,Av. Regional / Calz Izquierda,122,20.878883782009193
+20.72,Av. Regional Occidental >(N),241,20.878883782009193
+20.740000000000002,Av. Regional / Calz. Izquierda,188,20.878883782009193
+3.72,Av. Regional Occidental / Calz Izquierda >(S),928,20.878883782009193
+11.34,Av. Regional Occidental / Calz Derecha >(S),249,20.878883782009193
+32.78,Av. Regional / Calz Izquierda,142,20.878883782009193
+20.34,Av. Regional Occidental >(N),250,20.878883782009193
+32.3,Av. Regional / Calz Izquierda,146,20.878883782009193
+37.36,Av. Regional / Calz. Derecha,140,20.878883782009193
+26.8,Av. Regional / Calz. Izquierda,242,20.878883782009193
+18.55,Av. Regional Oriental >(N),205,20.878883782009193
+5.55,Av. Regional Occidental / Calz Izquierda >(S),818,20.878883782009193
+34.260000000000005,Av. Regional / Calz. Derecha,277,20.878883782009193
+13.05,Av. Regional / Calz Derecha,238,20.878883782009193
+16.740000000000002,Av. Regional Occidental / Calz Derecha >(S),149,20.878883782009193
+28.73,Av. Regional / Calz Izquierda,179,20.878883782009193
+14.839999999999998,Av. Regional Oriental >(N),279,20.878883782009193
+16.38,Av. Regional Occidental >(N),239,20.878883782009193
+19.330000000000002,Av. Regional / Calz. Izquierda,208,20.878883782009193
+25.78,Av. Regional Occidental / Calz Derecha >(S),75,20.878883782009193
+45.309999999999995,Av. Regional / Calz. Izquierda,43,20.878883782009193
+10.879999999999999,Av. Regional Occidental / Calz Izquierda >(S),280,20.878883782009193
+32.99,Av. Regional / Calz. Derecha,212,20.878883782009193
+19.68,Av. Regional / Calz. Izquierda,203,20.878883782009193
+32.290000000000006,Av. Regional / Calz. Derecha,211,20.878883782009193
+14.01,Av. Regional Occidental / Calz Izquierda >(S),201,20.878883782009193
+24.029999999999998,Av. Regional / Calz Izquierda,239,20.878883782009193
+17.52,Av. Regional Occidental >(N),327,20.878883782009193
+44.37,Av. Regional / Calz. Izquierda,46,20.878883782009193
+24.020000000000003,Av. Regional / Calz Izquierda,239,20.878883782009193
+16.05,Av. Regional Oriental,125,20.878883782009193
+12.61,Av. Regional Oriental,170,20.878883782009193
+15.020000000000001,Av. Regional Oriental >(N),275,20.878883782009193
+36.78,Av. Regional / Calz. Derecha,222,20.878883782009193
+36.48,Av. Regional / Calz. Izquierda,172,20.878883782009193
+27.9,Av. Regional / Calz. Derecha,186,20.878883782009193
+17.68,Av. Regional Occidental >(N),322,20.878883782009193
+21.49,Av. Regional Oriental,83,20.878883782009193
+17.310000000000002,Av. Regional Occidental >(N),333,20.878883782009193
+21.65,Av. Regional / Calz Izquierda,279,20.878883782009193
+27.310000000000002,Av. Regional / Calz. Derecha,194,20.878883782009193
+17.47,Av. Regional Occidental >(N),328,20.878883782009193
+23.18,Av. Regional / Calz Izquierda,252,20.878883782009193
+26.07,Av. Regional / Calz. Derecha,188,20.878883782009193
+17.880000000000003,Av. Regional Occidental >(N),316,20.878883782009193
+35.9,Av. Regional / Calz. Izquierda,104,20.878883782009193
+26.7,Av. Regional / Calz Izquierda,202,20.878883782009193
+36.65,Av. Regional / Calz. Izquierda,99,20.878883782009193
+27.2,Av. Regional / Calz Izquierda,196,20.878883782009193
+38.94,Av. Regional / Calz. Izquierda,64,20.878883782009193
+13.440000000000001,Av. Regional Oriental >(N),318,20.878883782009193
+33.65,Av. Regional / Calz. Derecha,271,20.878883782009193
+13.41,Av. Regional Oriental >(N),319,20.878883782009193
+22.630000000000003,Av. Regional / Calz. Derecha,228,20.878883782009193
+26.23,Av. Regional Occidental / Calz Derecha >(S),74,20.878883782009193
+26.54,Av. Regional / Calz. Derecha,258,20.878883782009193
+18.82,Av. Regional Occidental >(N),288,20.878883782009193
+17.19,Av. Regional Oriental,114,20.878883782009193
+20.3,Av. Regional / Calz Izquierda,306,20.878883782009193
+27.8,Av. Regional / Calz. Derecha,123,20.878883782009193
+15.920000000000002,Av. Regional / Calz. Derecha,329,20.878883782009193
+18.880000000000003,Av. Regional Occidental >(N),287,20.878883782009193
+18.48,Av. Regional / Calz Izquierda,348,20.878883782009193
+17.98,Av. Regional Occidental >(N),312,20.878883782009193
+32.92,Av. Regional / Calz. Izquierda,91,20.878883782009193
+16.240000000000002,Av. Regional Oriental >(N),247,20.878883782009193
+16.089999999999996,Av. Regional Oriental >(N),251,20.878883782009193
+41.540000000000006,Av. Regional / Calz. Derecha,85,20.878883782009193
+17.53,Av. Regional / Calz. Derecha,289,20.878883782009193
+17.41,Av. Regional Occidental >(N),330,20.878883782009193
+16.04,Av. Regional / Calz. Derecha,307,20.878883782009193
+14.830000000000002,Av. Regional Oriental >(N),280,20.878883782009193
+13.89,Av. Regional / Calz. Derecha,394,20.878883782009193
+16.470000000000002,Av. Regional Oriental,121,20.878883782009193
+12.41,Av. Regional / Calz. Derecha,429,20.878883782009193
+18.560000000000002,Av. Regional Occidental >(N),295,20.878883782009193
+11.72,Av. Regional / Calz. Derecha,488,20.878883782009193
+40.42,Av. Regional / Calz. Izquierda,58,20.878883782009193
+13.229999999999999,Av. Regional Oriental >(N),324,20.878883782009193
+18.0,Av. Regional Occidental >(N),275,20.878883782009193
+14.040000000000001,Av. Regional Oriental,149,20.878883782009193
+14.419999999999998,Av. Regional Oriental >(N),290,20.878883782009193
+12.239999999999998,Av. Regional / Calz. Derecha,436,20.878883782009193
+14.180000000000001,Av. Regional Oriental,147,20.878883782009193
+15.88,Av. Regional Oriental,127,20.878883782009193
+17.14,Av. Regional / Calz Izquierda,385,20.878883782009193
+20.669999999999998,Av. Regional Oriental,88,20.878883782009193
+18.86,Av. Regional Occidental >(N),287,20.878883782009193
+16.93,Av. Regional / Calz Izquierda,391,20.878883782009193
+12.46,Av. Regional Oriental >(N),350,20.878883782009193
+20.08,Av. Regional Occidental >(N),256,20.878883782009193
+13.12,Av. Regional / Calz Izquierda,542,20.878883782009193
+12.3,Av. Regional / Calz Izquierda,586,20.878883782009193
+9.629999999999999,Av. Regional / Calz Izquierda,701,20.878883782009193
+13.530000000000001,Av. Regional / Calz. Derecha,145,20.878883782009193
+14.12,Av. Regional Oriental >(N),298,20.878883782009193
+12.86,Av. Regional Oriental >(N),336,20.878883782009193
+12.33,Av. Regional Oriental >(N),355,20.878883782009193
+18.02,Av. Regional Occidental >(N),311,20.878883782009193
+13.84,Av. Regional Oriental >(N),306,20.878883782009193
+17.79,Av. Regional Occidental >(N),318,20.878883782009193
+14.38,Av. Regional Oriental >(N),291,20.878883782009193
+6.75,Av. Regional / Calz Izquierda,1170,20.878883782009193
+6.970000000000001,Av. Regional / Calz Izquierda,1129,20.878883782009193
+16.28,Av. Regional Oriental >(N),247,20.878883782009193
+15.59,Av. Regional Occidental >(N),348,20.878883782009193
+16.53,Av. Regional Occidental >(N),360,20.878883782009193
+7.029999999999999,Av. Regional / Calz Izquierda,1118,20.878883782009193
+18.94,Av. Regional Oriental >(N),125,20.878883782009193
+16.53,Av. Regional Occidental >(N),375,20.878883782009193
+18.96,Av. Regional Oriental >(N),125,20.878883782009193
+16.4,Av. Regional Occidental >(N),365,20.878883782009193
+24.69,Av. Regional Oriental >(N),132,20.878883782009193
+28.839999999999996,Av. Regional Oriental >(N),100,20.878883782009193
+8.440000000000001,Av. Regional / Calz Izquierda,910,20.878883782009193
+29.080000000000002,Av. Regional Oriental >(N),98,20.878883782009193
+14.75,Av. Regional / Calz Izquierda,468,20.878883782009193
+18.83,Av. Regional / Calz Izquierda,339,20.878883782009193
+15.15,Av. Regional Occidental >(N),364,20.878883782009193
+24.84,Av. Regional / Calz Izquierda,203,20.878883782009193
+20.08,Av. Regional / Calz Izquierda,170,20.878883782009193
+14.209999999999999,Av. Regional Oriental >(N),296,20.878883782009193
+22.98,Av. Regional / Calz Izquierda,114,20.878883782009193
+3.88,Carrera 64A,115,20.878883782009193
+28.580000000000002,Av. Regional Occidental >(S),70,20.878883782009193
+29.53,Av. Regional Occidental >(S),86,20.878883782009193
+12.76,Av. Regional Occidental >(S),131,20.878883782009193
+15.1,Av. Regional Occidental >(S),166,20.878883782009193
+32.33,Av. Regional Occidental / Calz Derecha >(S),125,20.878883782009193
+16.889999999999997,Av. Regional Occidental >(S),266,20.878883782009193
+30.1,Av. Regional Occidental / Calz Derecha >(S),145,20.878883782009193
+19.2,Av. Regional Occidental >(S),338,20.878883782009193
+26.880000000000003,Av. Regional Occidental / Calz Derecha >(S),181,20.878883782009193
+16.5,Av. Regional Occidental >(S),413,20.878883782009193
+20.759999999999998,Av. Regional Occidental / Calz Derecha >(S),275,20.878883782009193
+19.01,Av. Regional Occidental / Calz Derecha >(S),281,20.878883782009193
+12.52,Av. Regional Occidental >(S),336,20.878883782009193
+19.31,Av. Regional Occidental / Calz Derecha >(S),275,20.878883782009193
+12.47,Av. Regional Occidental >(S),318,20.878883782009193
+18.889999999999997,Av. Regional Occidental / Calz Derecha >(S),269,20.878883782009193
+11.68,Av. Regional Occidental >(S),281,20.878883782009193
+19.970000000000002,Av. Regional Occidental / Calz Derecha >(S),262,20.878883782009193
+18.23,Av. Regional Occidental / Calz Derecha >(S),225,20.878883782009193
+11.209999999999999,Av. Regional Occidental >(S),253,20.878883782009193
+19.82,Av. Regional Occidental / Calz Derecha >(S),199,20.878883782009193
+11.98,Av. Regional Occidental >(S),232,20.878883782009193
+19.919999999999998,Av. Regional Occidental / Calz Derecha >(S),197,20.878883782009193
+14.030000000000001,Av. Regional Occidental >(S),185,20.878883782009193
+26.009999999999998,Av. Regional Occidental / Calz Derecha >(S),171,20.878883782009193
+14.26,Av. Regional Occidental >(S),181,20.878883782009193
+18.95,Av. Regional Occidental / Calz Derecha >(S),212,20.878883782009193
+27.28,Av. Regional Occidental / Calz Izquierda >(S),77,20.878883782009193
+19.759999999999998,Av. Regional Occidental / Calz Derecha >(S),266,20.878883782009193
+14.079999999999998,Av. Regional Occidental >(N),105,20.878883782009193
+25.68,Av. Regional Occidental / Calz Izquierda >(S),86,20.878883782009193
+14.190000000000001,Av. Regional Occidental / Calz Derecha >(S),398,20.878883782009193
+17.729999999999997,Av. Regional Occidental / Calz Izquierda >(S),150,20.878883782009193
+14.55,Av. Regional Occidental / Calz Izquierda >(S),195,20.878883782009193
+11.07,Av. Regional Occidental / Calz Derecha >(S),432,20.878883782009193
+14.030000000000001,Av. Regional Occidental / Calz Izquierda >(S),205,20.878883782009193
+11.73,Av. Regional Occidental / Calz Derecha >(S),402,20.878883782009193
+17.95,Av. Regional Occidental >(N),107,20.878883782009193
+11.809999999999999,Av. Regional Occidental / Calz Izquierda >(S),254,20.878883782009193
+17.78,Av. Regional Occidental / Calz Izquierda >(S),335,20.878883782009193
+10.260000000000002,Av. Regional Occidental / Calz Izquierda >(S),410,20.878883782009193
+11.040000000000001,Av. Regional Occidental / Calz Izquierda >(S),377,20.878883782009193
+14.63,Av. Regional Occidental / Calz Derecha >(S),303,20.878883782009193
+12.38,Av. Regional Occidental / Calz Izquierda >(S),327,20.878883782009193
+11.510000000000002,Av. Regional Occidental / Calz Izquierda >(S),359,20.878883782009193
+9.15,Av. Regional Occidental / Calz Izquierda >(S),469,20.878883782009193
+13.41,Av. Regional Occidental / Calz Izquierda >(S),485,20.878883782009193
+14.76,Av. Regional Occidental / Calz Derecha >(S),300,20.878883782009193
+13.969999999999999,Av. Regional Occidental / Calz Derecha >(S),322,20.878883782009193
+9.629999999999999,Av. Regional Occidental / Calz Izquierda >(S),443,20.878883782009193
+13.59,Av. Regional Occidental / Calz Derecha >(S),334,20.878883782009193
+11.540000000000001,Av. Regional Occidental / Calz Izquierda >(S),356,20.878883782009193
+10.7,Av. Regional Occidental / Calz Derecha >(S),510,20.878883782009193
+10.11,Av. Regional Occidental / Calz Derecha >(S),545,20.878883782009193
+11.0,Av. Regional Occidental / Calz Derecha >(S),493,20.878883782009193
+12.739999999999998,Av. Regional Occidental / Calz Izquierda >(S),226,20.878883782009193
+13.88,Av. Regional Occidental / Calz Izquierda >(S),207,20.878883782009193
+17.06,Av. Regional Occidental / Calz Derecha >(S),201,20.878883782009193
+21.05,Av. Regional Occidental / Calz Derecha >(S),149,20.878883782009193
+19.339999999999996,Av. Regional Occidental / Calz Derecha >(S),142,20.878883782009193
+11.510000000000002,Av. Regional Occidental / Calz Izquierda >(S),262,20.878883782009193
+21.56,Av. Regional Occidental / Calz Derecha >(S),119,20.878883782009193
+11.57,Av. Regional Occidental / Calz Izquierda >(S),255,20.878883782009193
+24.619999999999997,Av. Regional Occidental / Calz Derecha >(S),83,20.878883782009193
+13.41,Av. Regional Occidental / Calz Izquierda >(S),217,20.878883782009193
+20.61,Av. Regional Occidental / Calz Derecha >(S),101,20.878883782009193
+22.59,Av. Regional Occidental / Calz Izquierda >(S),103,20.878883782009193
+23.12,Av. Regional / Calz. Derecha,145,20.878883782009193
+23.380000000000003,Av. Regional Occidental / Calz Derecha >(S),82,20.878883782009193
+23.779999999999998,Av. Regional Occidental / Calz Izquierda >(S),97,20.878883782009193
+24.44,Av. Regional Occidental / Calz Derecha >(S),84,20.878883782009193
+24.020000000000003,Av. Regional Occidental / Calz Izquierda >(S),96,20.878883782009193
+25.0,Av. Regional Occidental / Calz Izquierda >(S),90,20.878883782009193
+29.0,Av. Regional Occidental / Calz Derecha >(S),61,20.878883782009193
+28.32,Av. Regional Occidental / Calz Derecha >(S),64,20.878883782009193
+33.2,Av. Regional / Calz. Derecha,72,20.878883782009193
+27.48,Av. Regional / Calz. Derecha,104,20.878883782009193
+26.939999999999998,Av. Regional / Calz. Derecha,108,20.878883782009193
+27.380000000000003,Av. Regional / Calz. Derecha,105,20.878883782009193
+21.41,Av. Regional Occidental / Calz Derecha >(S),95,20.878883782009193
+13.3,Av. Regional Occidental / Calz Derecha >(S),148,20.878883782009193
+16.080000000000002,Av. Regional Occidental >(S),71,20.878883782009193
+19.86,Av. Regional Oriental >(N),95,20.878883782009193
+19.970000000000002,Av. Regional Occidental / Calz Derecha >(S),153,20.878883782009193
+19.880000000000003,Av. Regional Occidental / Calz Derecha >(S),140,20.878883782009193
+35.68,Av. Regional / Calz. Derecha,80,20.878883782009193
+33.96,Av. Regional / Calz. Izquierda,86,20.878883782009193
+32.92,Av. Regional / Calz. Izquierda,82,20.878883782009193
+25.080000000000002,Av. Regional Oriental >(N),86,20.878883782009193
+32.13,Av. Regional / Calz. Izquierda,85,20.878883782009193
+26.330000000000002,Av. Regional Oriental >(N),79,20.878883782009193
+21.33,Av. Regional Occidental / Calz Derecha >(S),155,20.878883782009193
+41.839999999999996,Av. Regional / Calz. Derecha,55,20.878883782009193
+18.6,Av. Regional Occidental / Calz Derecha >(S),190,20.878883782009193
+40.0,Av. Regional / Calz. Derecha,63,20.878883782009193
+40.12,Av. Regional / Calz. Derecha,63,20.878883782009193
+40.37,Av. Regional / Calz. Derecha,62,20.878883782009193
+22.28,Av. Regional Oriental >(N),80,20.878883782009193
+36.36,Av. Regional / Calz. Derecha,53,20.878883782009193
+36.730000000000004,Av. Regional / Calz. Derecha,79,20.878883782009193
+41.410000000000004,Av. Regional / Calz. Izquierda,55,20.878883782009193
+42.1,Av. Regional / Calz. Izquierda,175,20.878883782009193
+41.99,Av. Regional / Calz. Izquierda,176,20.878883782009193
+35.39,Av. Regional / Calz. Izquierda,183,20.878883782009193
+33.56,Av. Regional / Calz. Izquierda,204,20.878883782009193
+13.1,Av. Regional / Calz. Derecha,568,20.878883782009193
+20.21,Av. Regional Occidental >(N),124,20.878883782009193
+17.77,Av. Regional Occidental >(N),71,20.878883782009193
+30.32,Av. Regional / Calz. Izquierda,143,20.878883782009193
+26.07,Av. Regional / Calz. Izquierda,138,20.878883782009193
+18.46,Av. Regional Oriental >(N),137,20.878883782009193
+27.32,Av. Regional / Calz. Izquierda,128,20.878883782009193
+29.889999999999997,Av. Regional / Calz. Derecha,164,20.878883782009193
+26.919999999999998,Av. Regional / Calz. Izquierda,131,20.878883782009193
+30.589999999999996,Av. Regional / Calz. Derecha,140,20.878883782009193
+40.55,Av. Regional / Calz. Derecha,57,20.878883782009193
+34.74,Av. Regional / Calz. Derecha,129,20.878883782009193
+13.690000000000001,Av. Regional Oriental,133,20.878883782009193
+44.85,Av. Regional / Calz. Derecha,41,20.878883782009193
+33.190000000000005,Av. Regional / Calz. Derecha,78,20.878883782009193
+12.5,Av. Regional Oriental,149,20.878883782009193
+12.16,Av. Regional Oriental,154,20.878883782009193
+9.290000000000001,Av. Regional / Calz Izquierda,196,20.878883782009193
+6.62,Av. Regional / Calz Izquierda,288,20.878883782009193
+23.85,Av. Regional Occidental / Calz Derecha >(S),87,20.878883782009193
+6.279999999999999,Av. Regional / Calz Izquierda,306,20.878883782009193
+23.220000000000002,Av. Regional Occidental / Calz Derecha >(S),91,20.878883782009193
+10.94,Av. Regional Occidental >(S),271,20.878883782009193
+8.780000000000001,Av. Regional Oriental,262,20.878883782009193
+8.77,Av. Regional Oriental,227,20.878883782009193
+9.209999999999999,Av. Regional Oriental,215,20.878883782009193
+33.79,Av. Regional / Calz. Derecha,100,20.878883782009193
+8.7,Av. Regional Oriental,229,20.878883782009193
+13.86,Av. Regional Occidental >(S),177,20.878883782009193
+11.819999999999999,Av. Regional Occidental >(S),127,20.878883782009193
+10.36,Av. Regional / Calz Izquierda,321,20.878883782009193
+39.28,Av. Regional / Calz. Derecha,88,20.878883782009193
+11.22,Av. Regional / Calz Izquierda,292,20.878883782009193
+9.4,Av. Regional Oriental,210,20.878883782009193
+9.42,Av. Regional Oriental,209,20.878883782009193
+28.560000000000002,Av. Regional Occidental / Calz Derecha >(S),63,20.878883782009193
+10.870000000000001,Av. Regional / Calz Izquierda,372,20.878883782009193
+9.72,Av. Regional Oriental,201,20.878883782009193
+9.879999999999999,Av. Regional Oriental,198,20.878883782009193
+8.540000000000001,Av. Regional / Calz Izquierda,402,20.878883782009193
+20.979999999999997,Av. Regional Oriental >(N),114,20.878883782009193
+21.86,Av. Regional Oriental,81,20.878883782009193
+24.95,Av. Regional Occidental / Calz Derecha >(S),81,20.878883782009193
+21.07,Av. Regional Oriental,86,20.878883782009193
+18.85,Av. Regional Oriental,101,20.878883782009193
+18.85,Av. Regional Oriental,101,20.878883782009193
+16.330000000000002,Av. Regional Oriental,122,20.878883782009193
+24.66,Av. Regional / Calz Derecha,154,20.878883782009193
+15.319999999999999,Av. Regional Oriental,133,20.878883782009193
+32.26,Av. Regional / Calz. Derecha,103,20.878883782009193
+18.39,Av. Regional / Calz Derecha,149,20.878883782009193
+17.6,Av. Regional Oriental,111,20.878883782009193
+21.1,Av. Regional / Calz. Derecha,79,20.878883782009193
+14.89,Av. Regional Oriental >(N),184,20.878883782009193
+17.65,Av. Regional Oriental,110,20.878883782009193
+23.65,Av. Regional / Calz. Derecha,77,20.878883782009193
+32.35,Av. Regional / Calz. Derecha,83,20.878883782009193
+13.930000000000001,Av. Regional Oriental >(N),201,20.878883782009193
+18.22,Av. Regional Oriental,105,20.878883782009193
+37.480000000000004,Av. Regional / Calz. Derecha,112,20.878883782009193
+13.629999999999999,Av. Regional Oriental >(N),206,20.878883782009193
+19.47,Av. Regional Occidental >(S),64,20.878883782009193
+38.559999999999995,Av. Regional / Calz. Derecha,117,20.878883782009193
+15.280000000000001,Av. Regional Oriental >(N),175,20.878883782009193
+25.59,Av. Regional Occidental >(N),95,20.878883782009193
+29.0,Av. Regional Occidental >(N),95,20.878883782009193
+13.48,Av. Regional Oriental >(N),206,20.878883782009193
+21.610000000000003,Av. Regional / Calz. Derecha,98,20.878883782009193
+13.85,Av. Regional Oriental >(N),199,20.878883782009193
+22.369999999999997,Av. Regional Occidental >(N),134,20.878883782009193
+21.64,Av. Regional Oriental,83,20.878883782009193
+15.5,Av. Regional Occidental >(S),97,20.878883782009193
+14.38,Av. Regional Oriental >(N),189,20.878883782009193
+20.61,Av. Regional Oriental,89,20.878883782009193
+22.65,Av. Regional Occidental >(N),129,20.878883782009193
+20.19,Av. Regional Occidental >(N),64,20.878883782009193
+26.689999999999998,Av. Regional Occidental / Calz Derecha >(S),72,20.878883782009193
+15.25,Av. Regional Occidental >(S),307,20.878883782009193
+26.25,Av. Regional Occidental / Calz Derecha >(S),67,20.878883782009193
+17.96,Av. Regional Oriental,108,20.878883782009193
+15.530000000000001,Av. Regional Oriental >(N),174,20.878883782009193
+13.290000000000001,Av. Regional Oriental >(N),209,20.878883782009193
+20.830000000000002,Av. Regional Oriental,87,20.878883782009193
+18.5,Av. Regional Oriental,103,20.878883782009193
+16.84,Av. Regional Oriental >(N),235,20.878883782009193
+13.540000000000001,Av. Regional Oriental >(N),208,20.878883782009193
+16.57,Av. Regional Occidental >(S),156,20.878883782009193
+13.580000000000002,Av. Regional Oriental >(N),207,20.878883782009193
+15.330000000000002,Av. Regional Occidental >(S),176,20.878883782009193
+17.740000000000002,Av. Regional Oriental,109,20.878883782009193
+27.32,Av. Regional Occidental >(N),79,20.878883782009193
+16.73,Av. Regional Oriental,118,20.878883782009193
+19.86,Av. Regional / Calz Izquierda,140,20.878883782009193
+26.580000000000002,Av. Regional Occidental / Calz Derecha >(S),92,20.878883782009193
+11.59,Av. Regional Occidental >(S),317,20.878883782009193
+11.919999999999998,Av. Regional Occidental >(S),305,20.878883782009193
+25.14,Av. Regional Occidental / Calz Derecha >(S),78,20.878883782009193
+13.419999999999998,Av. Regional Oriental >(N),210,20.878883782009193
+26.28,Av. Regional / Calz Izquierda,92,20.878883782009193
+26.73,Av. Regional Occidental / Calz Derecha >(S),71,20.878883782009193
+15.830000000000002,Av. Regional / Calz Izquierda,102,20.878883782009193
+12.620000000000001,Av. Regional Oriental >(N),227,20.878883782009193
+28.46,Av. Regional Occidental / Calz Derecha >(S),63,20.878883782009193
+15.209999999999999,Av. Regional Oriental >(N),237,20.878883782009193
+19.880000000000003,Av. Regional Oriental,93,20.878883782009193
+13.370000000000001,Av. Regional Occidental >(S),386,20.878883782009193
+20.139999999999997,Av. Regional Oriental,92,20.878883782009193
+21.47,Av. Regional Oriental,83,20.878883782009193
+13.26,Av. Regional Occidental >(S),374,20.878883782009193
+18.330000000000002,Av. Regional Occidental >(N),194,20.878883782009193
+20.55,Av. Regional Oriental >(N),177,20.878883782009193
+12.45,Av. Regional Occidental >(N),321,20.878883782009193
+43.17999999999999,Av. Regional / Calz. Derecha,47,20.878883782009193
+14.91,Av. Regional Occidental >(S),245,20.878883782009193
+46.019999999999996,Av. Regional / Calz. Izquierda,56,20.878883782009193
+14.16,Av. Regional Occidental >(S),265,20.878883782009193
+22.0,Av. Regional Oriental >(N),159,20.878883782009193
+15.55,Av. Regional Occidental >(S),229,20.878883782009193
+16.490000000000002,Av. Regional Occidental >(N),361,20.878883782009193
+32.6,Av. Regional / Calz. Derecha,67,20.878883782009193
+18.61,Av. Regional Oriental >(N),136,20.878883782009193
+14.38,Av. Regional Occidental >(N),344,20.878883782009193
+24.880000000000003,Av. Regional Occidental / Calz Derecha >(S),102,20.878883782009193
+20.27,Av. Regional Oriental >(N),120,20.878883782009193
+25.96,Av. Regional Occidental / Calz Derecha >(S),96,20.878883782009193
+19.4,Av. Regional Oriental >(N),128,20.878883782009193
+17.45,Av. Regional Oriental >(N),149,20.878883782009193
+45.35,Av. Regional / Calz. Derecha,69,20.878883782009193
+18.919999999999998,Av. Regional Occidental >(N),286,20.878883782009193
+42.81,Av. Regional / Calz. Derecha,52,20.878883782009193
+17.79,Av. Regional Occidental >(N),219,20.878883782009193
+18.59,Av. Regional Occidental >(N),200,20.878883782009193
+18.75,Av. Regional Oriental >(N),134,20.878883782009193
+22.220000000000002,Av. Regional Occidental >(N),135,20.878883782009193
+26.65,Av. Regional Occidental / Calz Derecha >(S),72,20.878883782009193
+45.220000000000006,Av. Regional / Calz. Derecha,40,20.878883782009193
+27.619999999999997,Av. Regional Occidental / Calz Derecha >(S),67,20.878883782009193
+15.11,Av. Regional Oriental >(N),180,20.878883782009193
+45.21,Av. Regional / Calz. Derecha,40,20.878883782009193
+14.459999999999999,Av. Regional Oriental >(N),191,20.878883782009193
+18.75,Av. Regional Oriental,101,20.878883782009193
+23.229999999999997,Av. Regional Occidental / Calz Derecha >(S),91,20.878883782009193
+15.669999999999998,Av. Regional Oriental,129,20.878883782009193
+41.99,Av. Regional / Calz. Derecha,55,20.878883782009193
+8.709999999999999,Av. Regional Oriental >(N),329,20.878883782009193
+27.85,Av. Regional Occidental / Calz Derecha >(S),66,20.878883782009193
+29.15,Av. Regional Occidental / Calz Derecha >(S),60,20.878883782009193
+15.530000000000001,Av. Regional Occidental >(N),85,20.878883782009193
+15.479999999999999,Av. Regional Occidental >(N),85,20.878883782009193
+7.039999999999999,Av. Regional Oriental >(N),444,20.878883782009193
+8.780000000000001,Av. Regional Occidental >(N),187,20.878883782009193
+39.54,Av. Regional / Calz. Derecha,110,20.878883782009193
+10.36,Av. Regional Occidental >(N),220,20.878883782009193
+38.18,Av. Regional / Calz. Izquierda,60,20.878883782009193
+29.159999999999997,Av. Regional / Calz. Izquierda,101,20.878883782009193
+11.68,Av. Regional / Calz Izquierda,125,20.878883782009193
+9.260000000000002,Av. Regional Oriental,246,20.878883782009193
+8.58,Av. Regional Oriental >(N),355,20.878883782009193
+7.8199999999999985,Av. Regional Oriental >(N),395,20.878883782009193
+25.869999999999997,Av. Regional Occidental / Calz Derecha >(S),69,20.878883782009193
+9.49,Av. Regional Oriental,239,20.878883782009193
+15.38,Av. Regional Oriental >(N),266,20.878883782009193
+23.34,Av. Regional / Calz Izquierda,213,20.878883782009193
+23.98,Av. Regional / Calz. Izquierda,157,20.878883782009193
+12.34,Av. Regional Oriental,175,20.878883782009193
+40.2,Av. Regional / Calz. Derecha,62,20.878883782009193
+39.480000000000004,Av. Regional / Calz. Derecha,66,20.878883782009193
+30.52,Av. Regional / Calz. Izquierda,94,20.878883782009193
+11.37,Av. Regional Oriental,193,20.878883782009193
+40.010000000000005,Av. Regional / Calz. Derecha,63,20.878883782009193
+31.77,Av. Regional / Calz. Izquierda,87,20.878883782009193
+29.729999999999997,Av. Regional Occidental >(N),98,20.878883782009193
+12.27,Av. Regional Oriental,176,20.878883782009193
+35.42,Av. Regional / Calz. Izquierda,70,20.878883782009193
+12.38,Av. Regional Oriental >(N),233,20.878883782009193
+12.959999999999999,Av. Regional / Calz Izquierda,132,20.878883782009193
+11.96,Av. Regional Oriental >(N),239,20.878883782009193
+28.97,Av. Regional Occidental / Calz Derecha >(S),61,20.878883782009193
+23.97,Av. Regional / Calz Izquierda,168,20.878883782009193
+12.73,Av. Regional Oriental,168,20.878883782009193
+14.830000000000002,Av. Regional Oriental >(N),280,20.878883782009193
+24.75,Av. Regional / Calz Izquierda,162,20.878883782009193
+39.1,Av. Regional / Calz. Derecha,67,20.878883782009193
+10.879999999999999,Av. Regional Oriental >(N),268,20.878883782009193
+28.46,Av. Regional / Calz Izquierda,182,20.878883782009193
+37.07,Av. Regional / Calz. Derecha,77,20.878883782009193
+21.67,Av. Regional Occidental / Calz Derecha >(S),102,20.878883782009193
+39.33,Av. Regional / Calz. Izquierda,62,20.878883782009193
+12.3,Av. Regional Oriental,175,20.878883782009193
+19.47,Av. Regional Occidental / Calz Derecha >(S),120,20.878883782009193
+21.839999999999996,Av. Regional Occidental >(N),145,20.878883782009193
+37.9,Av. Regional / Calz. Izquierda,68,20.878883782009193
+35.52,Av. Regional / Calz. Derecha,85,20.878883782009193
+21.27,Av. Regional Occidental >(N),153,20.878883782009193
+28.24,Av. Regional / Calz Izquierda,185,20.878883782009193
+35.730000000000004,Av. Regional / Calz. Izquierda,119,20.878883782009193
+13.820000000000002,Av. Regional Oriental >(N),203,20.878883782009193
+29.639999999999997,Av. Regional / Calz Izquierda,170,20.878883782009193
+29.790000000000003,Av. Regional Occidental >(N),98,20.878883782009193
+19.17,Av. Regional Occidental / Calz Derecha >(S),153,20.878883782009193
+17.07,Av. Regional Occidental / Calz Derecha >(S),145,20.878883782009193
+10.36,Av. Regional Oriental,216,20.878883782009193
+28.139999999999997,Av. Regional / Calz Izquierda,158,20.878883782009193
+14.98,Av. Regional Oriental,137,20.878883782009193
+20.63,Av. Regional Occidental / Calz Derecha >(S),110,20.878883782009193
+26.99,Av. Regional Occidental >(N),132,20.878883782009193
+34.09,Av. Regional / Calz Izquierda,112,20.878883782009193
+17.110000000000003,Av. Regional Oriental,115,20.878883782009193
+23.73,Av. Regional Occidental >(N),181,20.878883782009193
+31.1,Av. Regional Oriental >(N),86,20.878883782009193
+19.01,Av. Regional Occidental / Calz Derecha >(S),154,20.878883782009193
+21.9,Av. Regional Occidental >(N),215,20.878883782009193
+22.05,Av. Regional Oriental,80,20.878883782009193
+20.5,Av. Regional Occidental >(N),246,20.878883782009193
+15.89,Av. Regional Occidental / Calz Derecha >(S),161,20.878883782009193
+14.510000000000002,Av. Regional Oriental >(N),100,20.878883782009193
+35.230000000000004,Av. Regional / Calz Izquierda,105,20.878883782009193
+18.6,Av. Regional / Calz. Derecha,450,20.878883782009193
+22.15,Av. Regional Occidental / Calz Derecha >(S),122,20.878883782009193
+19.1,Av. Regional Occidental >(N),281,20.878883782009193
+17.99,Av. Regional / Calz. Derecha,472,20.878883782009193
+13.940000000000001,Av. Regional Oriental >(N),123,20.878883782009193
+32.160000000000004,Av. Regional / Calz. Izquierda,221,20.878883782009193
+39.28,Av. Regional / Calz Izquierda,98,20.878883782009193
+28.73,Av. Regional Occidental / Calz Derecha >(S),62,20.878883782009193
+16.660000000000004,Av. Regional Occidental >(N),207,20.878883782009193
+35.29,Av. Regional / Calz. Izquierda,184,20.878883782009193
+36.980000000000004,Av. Regional / Calz Izquierda,111,20.878883782009193
+19.560000000000002,Av. Regional / Calz. Derecha,419,20.878883782009193
+23.14,Av. Regional / Calz. Derecha,324,20.878883782009193
+17.119999999999997,Av. Regional Occidental >(N),174,20.878883782009193
+35.36,Av. Regional / Calz Izquierda,122,20.878883782009193
+17.669999999999998,Av. Regional Occidental >(N),165,20.878883782009193
+31.45,Av. Regional / Calz. Izquierda,100,20.878883782009193
+37.66,Av. Regional / Calz Izquierda,107,20.878883782009193
+17.16,Av. Regional Occidental >(N),197,20.878883782009193
+42.089999999999996,Av. Regional / Calz. Izquierda,53,20.878883782009193
+12.2,Av. Regional Oriental >(N),360,20.878883782009193
+8.03,Av. Regional Occidental / Calz Izquierda >(S),235,20.878883782009193
+15.2,Av. Regional Oriental >(N),270,20.878883782009193
+15.470000000000002,Av. Regional Occidental / Calz Derecha >(S),167,20.878883782009193
+19.75,Av. Regional Oriental,94,20.878883782009193
+46.36,Av. Regional / Calz. Izquierda,40,20.878883782009193
+32.0,Av. Regional / Calz. Derecha,77,20.878883782009193
+37.26,Av. Regional / Calz. Derecha,141,20.878883782009193
+19.86,Av. Regional Oriental,94,20.878883782009193
+23.380000000000003,Av. Regional / Calz. Izquierda,224,20.878883782009193
+19.18,Av. Regional Oriental >(N),196,20.878883782009193
+8.7,Av. Regional Occidental / Calz Izquierda >(S),816,20.878883782009193
+19.62,Av. Regional Oriental >(N),189,20.878883782009193
+4.819999999999999,Av. Regional Occidental / Calz Izquierda >(S),831,20.878883782009193
+11.59,Av. Regional Occidental / Calz Derecha >(S),242,20.878883782009193
+32.730000000000004,Av. Regional / Calz Izquierda,142,20.878883782009193
+10.260000000000002,Av. Regional Occidental / Calz Derecha >(S),282,20.878883782009193
+30.8,Av. Regional / Calz Izquierda,159,20.878883782009193
+17.330000000000002,Av. Regional Oriental >(N),226,20.878883782009193
+6.460000000000001,Av. Regional Occidental / Calz Izquierda >(S),693,20.878883782009193
+29.840000000000003,Av. Regional / Calz Izquierda,168,20.878883782009193
+23.2,Av. Regional / Calz. Izquierda,245,20.878883782009193
+15.3,Av. Regional Oriental >(N),268,20.878883782009193
+7.38,Av. Regional Occidental / Calz Izquierda >(S),597,20.878883782009193
+15.3,Av. Regional Oriental >(N),268,20.878883782009193
+7.789999999999999,Av. Regional Occidental / Calz Izquierda >(S),562,20.878883782009193
+17.62,Av. Regional Occidental >(N),285,20.878883782009193
+28.46,Av. Regional / Calz Izquierda,182,20.878883782009193
+35.589999999999996,Av. Regional / Calz. Derecha,254,20.878883782009193
+19.16,Av. Regional / Calz. Izquierda,210,20.878883782009193
+12.959999999999999,Av. Regional Oriental >(N),333,20.878883782009193
+27.07,Av. Regional Occidental / Calz Derecha >(S),70,20.878883782009193
+30.15,Av. Regional / Calz Izquierda,165,20.878883782009193
+18.41,Av. Regional Oriental,104,20.878883782009193
+18.520000000000003,Av. Regional Occidental >(N),262,20.878883782009193
+12.57,Av. Regional Oriental >(N),346,20.878883782009193
+16.119999999999997,Av. Regional Occidental / Calz Izquierda >(S),382,20.878883782009193
+18.080000000000002,Av. Regional Occidental >(N),273,20.878883782009193
+43.790000000000006,Av. Regional / Calz. Izquierda,47,20.878883782009193
+25.25,Av. Regional / Calz. Izquierda,233,20.878883782009193
+12.79,Av. Regional Oriental >(N),339,20.878883782009193
+10.83,Av. Regional Occidental / Calz Izquierda >(S),335,20.878883782009193
+16.270000000000003,Av. Regional Oriental,123,20.878883782009193
+13.419999999999998,Av. Regional Oriental >(N),319,20.878883782009193
+26.97,Av. Regional / Calz Izquierda,199,20.878883782009193
+15.73,Av. Regional Oriental,129,20.878883782009193
+17.729999999999997,Av. Regional Occidental >(N),320,20.878883782009193
+11.79,Av. Regional Oriental >(N),375,20.878883782009193
+32.13,Av. Regional / Calz. Derecha,213,20.878883782009193
+11.290000000000001,Av. Regional Oriental >(N),396,20.878883782009193
+19.110000000000003,Av. Regional Oriental,99,20.878883782009193
+25.82,Av. Regional / Calz Izquierda,214,20.878883782009193
+12.99,Av. Regional Oriental >(N),332,20.878883782009193
+42.77,Av. Regional / Calz. Izquierda,51,20.878883782009193
+34.71,Av. Regional / Calz. Derecha,190,20.878883782009193
+34.58,Av. Regional / Calz. Izquierda,192,20.878883782009193
+22.31,Av. Regional / Calz Izquierda,267,20.878883782009193
+15.84,Av. Regional Oriental >(N),256,20.878883782009193
+40.739999999999995,Av. Regional / Calz. Izquierda,134,20.878883782009193
+14.34,Av. Regional Oriental >(N),292,20.878883782009193
+34.769999999999996,Av. Regional / Calz. Derecha,268,20.878883782009193
+19.66,Av. Regional Occidental >(N),266,20.878883782009193
+24.9,Av. Regional / Calz Izquierda,226,20.878883782009193
+19.22,Av. Regional Occidental >(N),277,20.878883782009193
+19.17,Av. Regional Occidental >(N),279,20.878883782009193
+26.080000000000002,Av. Regional Occidental / Calz Derecha >(S),75,20.878883782009193
+19.589999999999996,Av. Regional Occidental >(N),268,20.878883782009193
+25.05,Av. Regional Occidental / Calz Derecha >(S),80,20.878883782009193
+19.22,Av. Regional Occidental >(N),278,20.878883782009193
+44.08,Av. Regional / Calz. Izquierda,109,20.878883782009193
+42.970000000000006,Av. Regional / Calz. Izquierda,117,20.878883782009193
+27.359999999999996,Av. Regional Occidental / Calz Derecha >(S),68,20.878883782009193
+18.55,Av. Regional Occidental >(N),296,20.878883782009193
+17.54,Av. Regional Oriental,111,20.878883782009193
+15.169999999999998,Av. Regional Oriental >(N),271,20.878883782009193
+19.18,Av. Regional / Calz Izquierda,331,20.878883782009193
+20.35,Av. Regional Oriental,90,20.878883782009193
+40.48,Av. Regional / Calz. Izquierda,136,20.878883782009193
+17.93,Av. Regional / Calz Izquierda,363,20.878883782009193
+19.18,Av. Regional / Calz Izquierda,331,20.878883782009193
+20.24,Av. Regional Oriental,91,20.878883782009193
+32.46,Av. Regional / Calz. Derecha,118,20.878883782009193
+18.970000000000002,Av. Regional Oriental,100,20.878883782009193
+34.75,Av. Regional / Calz. Izquierda,82,20.878883782009193
+16.740000000000002,Av. Regional Oriental >(N),237,20.878883782009193
+18.25,Av. Regional / Calz Izquierda,354,20.878883782009193
+16.52,Av. Regional / Calz. Derecha,313,20.878883782009193
+31.580000000000002,Av. Regional / Calz. Izquierda,99,20.878883782009193
+15.319999999999999,Av. Regional Oriental >(N),268,20.878883782009193
+19.96,Av. Regional Oriental,93,20.878883782009193
+17.330000000000002,Av. Regional Occidental >(N),333,20.878883782009193
+20.130000000000003,Av. Regional / Calz Izquierda,309,20.878883782009193
+17.86,Av. Regional Occidental >(N),316,20.878883782009193
+21.48,Av. Regional / Calz Izquierda,282,20.878883782009193
+16.84,Av. Regional Oriental,117,20.878883782009193
+36.7,Av. Regional / Calz. Izquierda,73,20.878883782009193
+19.39,Av. Regional Occidental >(N),273,20.878883782009193
+16.98,Av. Regional Oriental,116,20.878883782009193
+19.16,Av. Regional / Calz Izquierda,331,20.878883782009193
+19.46,Av. Regional Occidental >(N),271,20.878883782009193
+17.6,Av. Regional / Calz Izquierda,372,20.878883782009193
+12.120000000000001,Av. Regional / Calz. Derecha,441,20.878883782009193
+19.35,Av. Regional Occidental >(N),274,20.878883782009193
+15.459999999999999,Av. Regional / Calz. Derecha,323,20.878883782009193
+19.05,Av. Regional Occidental >(N),282,20.878883782009193
+17.18,Av. Regional / Calz Izquierda,384,20.878883782009193
+14.0,Av. Regional Oriental >(N),302,20.878883782009193
+21.580000000000002,Av. Regional Oriental,83,20.878883782009193
+18.41,Av. Regional Oriental,104,20.878883782009193
+13.6,Av. Regional Oriental >(N),313,20.878883782009193
+14.76,Av. Regional / Calz Izquierda,467,20.878883782009193
+19.979999999999997,Av. Regional Oriental,93,20.878883782009193
+13.87,Av. Regional / Calz Izquierda,506,20.878883782009193
+17.009999999999998,Av. Regional / Calz. Derecha,250,20.878883782009193
+18.38,Av. Regional Occidental >(N),301,20.878883782009193
+15.690000000000001,Av. Regional Oriental >(N),259,20.878883782009193
+13.179999999999998,Av. Regional / Calz Izquierda,538,20.878883782009193
+10.4,Av. Regional / Calz. Derecha,201,20.878883782009193
+13.52,Av. Regional Occidental >(N),320,20.878883782009193
+12.11,Av. Regional / Calz. Derecha,167,20.878883782009193
+15.419999999999998,Av. Regional Occidental >(N),354,20.878883782009193
+14.309999999999999,Av. Regional Oriental >(N),293,20.878883782009193
+16.869999999999997,Av. Regional Occidental >(N),381,20.878883782009193
+12.4,Av. Regional / Calz. Derecha,109,20.878883782009193
+16.9,Av. Regional Occidental >(N),380,20.878883782009193
+9.360000000000001,Av. Regional / Calz Izquierda,809,20.878883782009193
+8.89,Av. Regional / Calz Izquierda,858,20.878883782009193
+8.3,Av. Regional / Calz Izquierda,929,20.878883782009193
+7.789999999999999,Av. Regional / Calz Izquierda,997,20.878883782009193
+17.16,Av. Regional Occidental >(N),338,20.878883782009193
+15.080000000000002,Av. Regional Oriental >(N),274,20.878883782009193
+7.3,Av. Regional / Calz Izquierda,1073,20.878883782009193
+19.669999999999998,Av. Regional Oriental >(N),188,20.878883782009193
+16.419999999999998,Av. Regional Occidental >(N),364,20.878883782009193
+7.869999999999999,Av. Regional / Calz Izquierda,986,20.878883782009193
+17.029999999999998,Av. Regional Occidental >(N),358,20.878883782009193
+8.49,Av. Regional / Calz Izquierda,905,20.878883782009193
+7.789999999999999,Av. Regional / Calz Izquierda,997,20.878883782009193
+9.559999999999999,Av. Regional / Calz Izquierda,789,20.878883782009193
+15.679999999999998,Av. Regional Occidental >(N),392,20.878883782009193
+15.189999999999998,Av. Regional Occidental >(N),412,20.878883782009193
+16.06,Av. Regional Occidental >(N),377,20.878883782009193
+16.77,Av. Regional Oriental >(N),237,20.878883782009193
+16.660000000000004,Av. Regional Occidental >(N),355,20.878883782009193
+14.459999999999999,Av. Regional Oriental >(N),289,20.878883782009193
+18.259999999999998,Av. Regional Occidental >(N),304,20.878883782009193
+3.8,Carrera 64A,118,20.878883782009193
+36.9,Av. Regional Occidental / Calz Derecha >(S),91,20.878883782009193
+13.12,Av. Regional Occidental >(S),204,20.878883782009193
+28.97,Av. Regional Occidental / Calz Derecha >(S),157,20.878883782009193
+13.930000000000001,Av. Regional Occidental >(S),348,20.878883782009193
+13.690000000000001,Av. Regional Occidental >(S),357,20.878883782009193
+23.220000000000002,Av. Regional Occidental / Calz Derecha >(S),207,20.878883782009193
+22.82,Av. Regional Occidental / Calz Derecha >(S),237,20.878883782009193
+16.1,Av. Regional Occidental >(S),398,20.878883782009193
+17.85,Av. Regional Occidental / Calz Derecha >(S),292,20.878883782009193
+12.6,Av. Regional Occidental >(S),313,20.878883782009193
+11.379999999999999,Av. Regional Occidental >(S),270,20.878883782009193
+25.65,Av. Regional Occidental / Calz Derecha >(S),175,20.878883782009193
+14.76,Av. Regional Occidental >(S),187,20.878883782009193
+23.470000000000002,Av. Regional Occidental / Calz Derecha >(S),204,20.878883782009193
+16.77,Av. Regional Occidental / Calz Derecha >(S),253,20.878883782009193
+18.48,Av. Regional Occidental >(N),66,20.878883782009193
+17.64,Av. Regional Occidental >(N),72,20.878883782009193
+21.830000000000002,Av. Regional Occidental / Calz Derecha >(S),229,20.878883782009193
+16.05,Av. Regional Occidental >(N),85,20.878883782009193
+26.22,Av. Regional Occidental / Calz Izquierda >(S),83,20.878883782009193
+18.53,Av. Regional Occidental / Calz Derecha >(S),292,20.878883782009193
+12.190000000000001,Av. Regional Occidental >(N),130,20.878883782009193
+18.17,Av. Regional Occidental >(N),104,20.878883782009193
+12.36,Av. Regional Occidental / Calz Derecha >(S),377,20.878883782009193
+13.48,Av. Regional Occidental / Calz Izquierda >(S),215,20.878883782009193
+11.45,Av. Regional Occidental / Calz Derecha >(S),414,20.878883782009193
+18.560000000000002,Av. Regional Occidental / Calz Izquierda >(S),315,20.878883782009193
+15.52,Av. Regional Occidental / Calz Derecha >(S),281,20.878883782009193
+14.16,Av. Regional Occidental / Calz Derecha >(S),317,20.878883782009193
+13.98,Av. Regional Occidental / Calz Derecha >(S),322,20.878883782009193
+11.15,Av. Regional Occidental / Calz Izquierda >(S),372,20.878883782009193
+13.780000000000001,Av. Regional Occidental / Calz Derecha >(S),328,20.878883782009193
+9.959999999999999,Av. Regional Occidental / Calz Izquierda >(S),425,20.878883782009193
+12.7,Av. Regional Occidental / Calz Derecha >(S),364,20.878883782009193
+14.66,Av. Regional Occidental / Calz Derecha >(S),303,20.878883782009193
+8.73,Av. Regional Occidental / Calz Izquierda >(S),497,20.878883782009193
+11.25,Av. Regional Occidental / Calz Izquierda >(S),366,20.878883782009193
+28.22,Av. Regional Oriental >(N),64,20.878883782009193
+12.75,Av. Regional Occidental / Calz Derecha >(S),439,20.878883782009193
+9.290000000000001,Av. Regional Occidental / Calz Izquierda >(S),338,20.878883782009193
+10.67,Av. Regional Occidental / Calz Derecha >(S),512,20.878883782009193
+11.209999999999999,Av. Regional Occidental / Calz Izquierda >(S),271,20.878883782009193
+10.71,Av. Regional Occidental / Calz Izquierda >(S),286,20.878883782009193
+9.41,Av. Regional Occidental / Calz Izquierda >(S),333,20.878883782009193
+8.34,Av. Regional Occidental / Calz Izquierda >(S),375,20.878883782009193
+8.719999999999999,Av. Regional Occidental / Calz Izquierda >(S),356,20.878883782009193
+8.870000000000001,Av. Regional Occidental / Calz Izquierda >(S),349,20.878883782009193
+11.389999999999999,Av. Regional Occidental / Calz Izquierda >(S),265,20.878883782009193
+10.12,Av. Regional Occidental / Calz Derecha >(S),481,20.878883782009193
+12.27,Av. Regional Occidental / Calz Izquierda >(S),237,20.878883782009193
+10.43,Av. Regional Occidental / Calz Derecha >(S),464,20.878883782009193
+14.3,Av. Regional Occidental / Calz Izquierda >(S),200,20.878883782009193
+15.419999999999998,Av. Regional Occidental / Calz Derecha >(S),201,20.878883782009193
+13.14,Av. Regional Occidental / Calz Izquierda >(S),222,20.878883782009193
+11.97,Av. Regional Occidental / Calz Izquierda >(S),250,20.878883782009193
+11.76,Av. Regional Occidental / Calz Izquierda >(S),255,20.878883782009193
+12.52,Av. Regional Occidental / Calz Izquierda >(S),236,20.878883782009193
+23.73,Av. Regional Occidental / Calz Derecha >(S),88,20.878883782009193
+21.65,Av. Regional Occidental / Calz Derecha >(S),93,20.878883782009193
+26.76,Av. Regional Occidental / Calz Izquierda >(S),80,20.878883782009193
+15.559999999999999,Av. Regional Occidental >(S),96,20.878883782009193
+28.75,Av. Regional / Calz. Derecha,96,20.878883782009193
+13.15,Av. Regional Occidental / Calz Derecha >(S),201,20.878883782009193
+34.61,Av. Regional / Calz. Derecha,91,20.878883782009193
+34.059999999999995,Av. Regional / Calz. Izquierda,85,20.878883782009193
+20.669999999999998,Av. Regional Oriental >(N),89,20.878883782009193
+38.37,Av. Regional / Calz. Derecha,67,20.878883782009193
+15.66,Av. Regional Occidental / Calz Derecha >(S),173,20.878883782009193
+34.86,Av. Regional / Calz. Izquierda,81,20.878883782009193
+39.089999999999996,Av. Regional / Calz. Derecha,63,20.878883782009193
+19.71,Av. Regional Occidental / Calz Derecha >(S),174,20.878883782009193
+32.92,Av. Regional / Calz. Izquierda,81,20.878883782009193
+34.36,Av. Regional / Calz. Izquierda,75,20.878883782009193
+22.4,Av. Regional Oriental >(N),79,20.878883782009193
+25.15,Av. Regional Occidental / Calz Derecha >(S),112,20.878883782009193
+24.240000000000002,Av. Regional Occidental / Calz Derecha >(S),77,20.878883782009193
+24.630000000000003,Av. Regional Occidental / Calz Derecha >(S),75,20.878883782009193
+26.119999999999997,Av. Regional Oriental >(N),80,20.878883782009193
+44.019999999999996,Av. Regional / Calz. Izquierda,47,20.878883782009193
+27.130000000000003,Av. Regional / Calz. Derecha,117,20.878883782009193
+37.209999999999994,Av. Regional / Calz. Izquierda,165,20.878883782009193
+33.84,Av. Regional / Calz. Izquierda,201,20.878883782009193
+26.2,Av. Regional / Calz. Izquierda,184,20.878883782009193
+26.389999999999997,Av. Regional / Calz. Izquierda,181,20.878883782009193
+12.14,Av. Regional / Calz. Derecha,625,20.878883782009193
+30.2,Av. Regional / Calz. Izquierda,144,20.878883782009193
+17.130000000000003,Av. Regional Occidental >(N),76,20.878883782009193
+28.97,Av. Regional / Calz. Izquierda,155,20.878883782009193
+29.52,Av. Regional / Calz. Izquierda,150,20.878883782009193
+19.31,Av. Regional Oriental >(N),99,20.878883782009193
+26.04,Av. Regional / Calz. Derecha,267,20.878883782009193
+29.910000000000004,Av. Regional / Calz. Izquierda,147,20.878883782009193
+19.07,Av. Regional Oriental >(N),131,20.878883782009193
+24.1,Av. Regional / Calz. Derecha,240,20.878883782009193
+28.15,Av. Regional / Calz. Derecha,183,20.878883782009193
+21.589999999999996,Av. Regional Oriental >(N),109,20.878883782009193
+24.61,Av. Regional Oriental >(N),89,20.878883782009193
+19.0,Av. Regional Oriental,100,20.878883782009193
+31.140000000000004,Av. Regional / Calz. Derecha,135,20.878883782009193
+28.52,Av. Regional / Calz. Izquierda,119,20.878883782009193
+16.259999999999998,Av. Regional Oriental,106,20.878883782009193
+43.61,Av. Regional / Calz. Derecha,46,20.878883782009193
+32.79,Av. Regional / Calz. Derecha,107,20.878883782009193
+13.84,Av. Regional Oriental,131,20.878883782009193
+13.98,Av. Regional / Calz Izquierda,100,20.878883782009193
+13.95,Av. Regional / Calz Izquierda,101,20.878883782009193
+12.620000000000001,Av. Regional / Calz Izquierda,114,20.878883782009193
+12.76,Av. Regional Oriental,145,20.878883782009193
+12.819999999999999,Av. Regional / Calz Izquierda,133,20.878883782009193
+11.35,Av. Regional Oriental,168,20.878883782009193
+11.290000000000001,Av. Regional / Calz Izquierda,156,20.878883782009193
+9.85,Av. Regional Oriental,198,20.878883782009193
+8.42,Av. Regional / Calz Izquierda,220,20.878883782009193
+8.209999999999999,Av. Regional Oriental,245,20.878883782009193
+7.33,Av. Regional / Calz Izquierda,257,20.878883782009193
+8.35,Av. Regional Oriental,240,20.878883782009193
+8.53,Av. Regional Oriental,234,20.878883782009193
+28.609999999999996,Av. Regional Occidental / Calz Derecha >(S),63,20.878883782009193
+8.66,Av. Regional Oriental,230,20.878883782009193
+28.4,Av. Regional Occidental / Calz Derecha >(S),64,20.878883782009193
+14.26,Av. Regional / Calz Izquierda,342,20.878883782009193
+16.07,Av. Regional / Calz Izquierda,294,20.878883782009193
+25.630000000000003,Av. Regional Occidental / Calz Derecha >(S),77,20.878883782009193
+42.260000000000005,Av. Regional / Calz. Derecha,106,20.878883782009193
+9.92,Av. Regional / Calz Izquierda,338,20.878883782009193
+41.239999999999995,Av. Regional / Calz. Derecha,125,20.878883782009193
+11.8,Av. Regional Occidental >(S),221,20.878883782009193
+28.03,Av. Regional Occidental / Calz Derecha >(S),65,20.878883782009193
+33.95,Av. Regional / Calz. Derecha,109,20.878883782009193
+13.030000000000001,Av. Regional Occidental >(S),194,20.878883782009193
+10.73,Av. Regional / Calz Izquierda,308,20.878883782009193
+28.609999999999996,Av. Regional Occidental / Calz Derecha >(S),63,20.878883782009193
+11.1,Av. Regional / Calz Izquierda,296,20.878883782009193
+38.220000000000006,Av. Regional / Calz. Derecha,99,20.878883782009193
+8.9,Av. Regional Oriental,223,20.878883782009193
+12.620000000000001,Av. Regional Occidental >(S),116,20.878883782009193
+11.65,Av. Regional Occidental >(S),108,20.878883782009193
+11.209999999999999,Av. Regional / Calz Izquierda,358,20.878883782009193
+40.56,Av. Regional / Calz. Derecha,79,20.878883782009193
+16.38,Av. Regional Occidental >(S),127,20.878883782009193
+9.129999999999999,Av. Regional / Calz Izquierda,372,20.878883782009193
+45.38,Av. Regional / Calz. Derecha,51,20.878883782009193
+24.669999999999998,Av. Regional Occidental / Calz Derecha >(S),82,20.878883782009193
+11.99,Av. Regional / Calz Izquierda,331,20.878883782009193
+15.38,Av. Regional / Calz Izquierda,243,20.878883782009193
+21.72,Av. Regional / Calz Izquierda,124,20.878883782009193
+17.57,Av. Regional Oriental >(N),147,20.878883782009193
+15.690000000000001,Av. Regional Oriental >(N),172,20.878883782009193
+14.91,Av. Regional Oriental >(N),184,20.878883782009193
+14.579999999999998,Av. Regional Oriental >(N),189,20.878883782009193
+22.65,Av. Regional / Calz. Derecha,82,20.878883782009193
+26.73,Av. Regional Occidental >(N),71,20.878883782009193
+14.679999999999998,Av. Regional Oriental >(N),187,20.878883782009193
+18.41,Av. Regional Oriental,104,20.878883782009193
+14.8,Av. Regional Oriental >(N),185,20.878883782009193
+20.15,Av. Regional Occidental >(S),200,20.878883782009193
+14.7,Av. Regional Oriental >(N),187,20.878883782009193
+20.360000000000003,Av. Regional Oriental,90,20.878883782009193
+32.959999999999994,Av. Regional / Calz. Derecha,150,20.878883782009193
+14.26,Av. Regional Oriental >(N),191,20.878883782009193
+17.869999999999997,Av. Regional Occidental >(S),76,20.878883782009193
+35.95,Av. Regional / Calz. Derecha,60,20.878883782009193
+14.430000000000001,Av. Regional Oriental >(N),188,20.878883782009193
+40.13,Av. Regional / Calz. Derecha,67,20.878883782009193
+22.389999999999997,Av. Regional Occidental >(N),133,20.878883782009193
+25.05,Av. Regional Occidental / Calz Derecha >(S),80,20.878883782009193
+20.589999999999996,Av. Regional Oriental,89,20.878883782009193
+23.630000000000003,Av. Regional Occidental / Calz Derecha >(S),103,20.878883782009193
+16.270000000000003,Av. Regional Oriental >(N),161,20.878883782009193
+12.61,Av. Regional Occidental >(S),154,20.878883782009193
+22.830000000000002,Av. Regional Occidental / Calz Derecha >(S),110,20.878883782009193
+16.470000000000002,Av. Regional Oriental >(N),158,20.878883782009193
+15.91,Av. Regional Oriental >(N),168,20.878883782009193
+15.63,Av. Regional Occidental >(S),296,20.878883782009193
+15.989999999999998,Av. Regional Oriental >(N),167,20.878883782009193
+17.880000000000003,Av. Regional Oriental,108,20.878883782009193
+32.17,Av. Regional / Calz. Derecha,89,20.878883782009193
+16.94,Av. Regional Oriental >(N),155,20.878883782009193
+13.84,Av. Regional Occidental >(S),352,20.878883782009193
+32.519999999999996,Av. Regional / Calz. Derecha,96,20.878883782009193
+15.370000000000001,Av. Regional Occidental >(S),347,20.878883782009193
+26.53,Av. Regional / Calz. Derecha,102,20.878883782009193
+22.05,Av. Regional Oriental,80,20.878883782009193
+31.4,Av. Regional Occidental >(N),85,20.878883782009193
+17.81,Av. Regional Oriental,109,20.878883782009193
+26.07,Av. Regional Occidental >(N),92,20.878883782009193
+13.7,Av. Regional Occidental >(S),147,20.878883782009193
+25.330000000000002,Av. Regional Occidental / Calz Derecha >(S),72,20.878883782009193
+16.11,Av. Regional Occidental >(S),150,20.878883782009193
+26.71,Av. Regional Occidental >(N),87,20.878883782009193
+23.3,Av. Regional Occidental >(S),63,20.878883782009193
+25.089999999999996,Av. Regional Occidental / Calz Derecha >(S),73,20.878883782009193
+11.9,Av. Regional Oriental >(N),244,20.878883782009193
+12.040000000000001,Av. Regional Oriental >(N),241,20.878883782009193
+26.7,Av. Regional / Calz Izquierda,90,20.878883782009193
+13.540000000000001,Av. Regional Occidental >(S),195,20.878883782009193
+26.95,Av. Regional Occidental >(N),82,20.878883782009193
+26.96,Av. Regional Occidental / Calz Derecha >(S),84,20.878883782009193
+12.95,Av. Regional Oriental >(N),220,20.878883782009193
+12.98,Av. Regional Occidental >(S),207,20.878883782009193
+16.75,Av. Regional Oriental,118,20.878883782009193
+12.559999999999999,Av. Regional Oriental >(N),229,20.878883782009193
+17.3,Av. Regional / Calz Izquierda,170,20.878883782009193
+14.45,Av. Regional Oriental >(N),191,20.878883782009193
+13.809999999999999,Av. Regional Occidental >(S),315,20.878883782009193
+27.310000000000002,Av. Regional Occidental / Calz Derecha >(S),69,20.878883782009193
+13.49,Av. Regional Occidental >(S),326,20.878883782009193
+13.05,Av. Regional Occidental >(S),341,20.878883782009193
+17.76,Av. Regional / Calz. Derecha,107,20.878883782009193
+19.16,Av. Regional Oriental >(N),196,20.878883782009193
+17.720000000000002,Av. Regional Oriental,110,20.878883782009193
+18.03,Av. Regional Oriental >(N),214,20.878883782009193
+23.160000000000004,Av. Regional Occidental >(N),169,20.878883782009193
+48.769999999999996,Av. Regional / Calz. Izquierda,47,20.878883782009193
+19.39,Av. Regional Oriental >(N),192,20.878883782009193
+20.56,Av. Regional Oriental >(N),176,20.878883782009193
+15.27,Av. Regional Occidental >(S),351,20.878883782009193
+21.72,Av. Regional Occidental >(N),194,20.878883782009193
+24.029999999999998,Av. Regional Oriental >(N),138,20.878883782009193
+21.82,Av. Regional Occidental >(N),192,20.878883782009193
+22.48,Av. Regional Oriental >(N),154,20.878883782009193
+21.34,Av. Regional Oriental >(N),167,20.878883782009193
+13.48,Av. Regional Occidental >(S),370,20.878883782009193
+26.49,Av. Regional Occidental / Calz Derecha >(S),72,20.878883782009193
+15.709999999999999,Av. Regional Occidental >(N),251,20.878883782009193
+16.029999999999998,Av. Regional Oriental >(N),167,20.878883782009193
+14.129999999999999,Av. Regional Oriental >(N),197,20.878883782009193
+18.0,Av. Regional Occidental >(S),245,20.878883782009193
+11.629999999999999,Av. Regional Occidental >(N),352,20.878883782009193
+27.330000000000002,Av. Regional Occidental / Calz Derecha >(S),68,20.878883782009193
+48.47,Av. Regional / Calz. Izquierda,48,20.878883782009193
+25.029999999999998,Av. Regional Occidental / Calz Derecha >(S),73,20.878883782009193
+44.989999999999995,Av. Regional / Calz. Izquierda,60,20.878883782009193
+37.85,Av. Regional / Calz. Derecha,73,20.878883782009193
+22.25,Av. Regional Occidental / Calz Derecha >(S),114,20.878883782009193
+17.06,Av. Regional Occidental >(N),342,20.878883782009193
+23.81,Av. Regional Occidental / Calz Derecha >(S),110,20.878883782009193
+38.67,Av. Regional / Calz. Derecha,69,20.878883782009193
+17.21,Av. Regional Occidental >(S),135,20.878883782009193
+18.24,Av. Regional Occidental >(S),103,20.878883782009193
+17.029999999999998,Av. Regional Oriental >(N),154,20.878883782009193
+20.63,Av. Regional Occidental >(S),108,20.878883782009193
+18.1,Av. Regional Oriental >(N),141,20.878883782009193
+21.68,Av. Regional Occidental >(N),73,20.878883782009193
+12.620000000000001,Av. Regional Oriental >(N),223,20.878883782009193
+12.1,Av. Regional Oriental >(N),235,20.878883782009193
+22.73,Av. Regional Occidental >(N),52,20.878883782009193
+11.25,Av. Regional Oriental >(N),258,20.878883782009193
+9.92,Av. Regional Oriental >(N),300,20.878883782009193
+42.279999999999994,Av. Regional / Calz. Derecha,54,20.878883782009193
+12.98,Av. Regional Occidental >(N),85,20.878883782009193
+10.75,Av. Regional Oriental,207,20.878883782009193
+7.159999999999999,Av. Regional Oriental >(N),398,20.878883782009193
+45.06,Av. Regional / Calz. Derecha,41,20.878883782009193
+7.06,Av. Regional Oriental >(N),419,20.878883782009193
+9.940000000000001,Av. Regional Oriental,227,20.878883782009193
+7.6,Av. Regional Oriental >(N),385,20.878883782009193
+10.05,Av. Regional Oriental,224,20.878883782009193
+43.89,Av. Regional / Calz. Derecha,64,20.878883782009193
+10.66,Av. Regional Oriental,209,20.878883782009193
+29.43,Av. Regional / Calz Izquierda,94,20.878883782009193
+32.57,Av. Regional / Calz. Derecha,74,20.878883782009193
+9.65,Av. Regional Oriental,234,20.878883782009193
+8.07,Av. Regional Oriental >(N),381,20.878883782009193
+12.75,Av. Regional Occidental >(N),163,20.878883782009193
+8.97,Av. Regional Oriental >(N),337,20.878883782009193
+26.3,Av. Regional / Calz. Izquierda,120,20.878883782009193
+11.05,Av. Regional / Calz Izquierda,134,20.878883782009193
+37.31,Av. Regional / Calz. Derecha,131,20.878883782009193
+24.58,Av. Regional / Calz. Izquierda,134,20.878883782009193
+39.57000000000001,Av. Regional / Calz. Derecha,118,20.878883782009193
+24.65,Av. Regional / Calz. Izquierda,134,20.878883782009193
+9.48,Av. Regional Oriental,239,20.878883782009193
+8.360000000000001,Av. Regional Oriental >(N),366,20.878883782009193
+12.2,Av. Regional / Calz Izquierda,142,20.878883782009193
+32.709999999999994,Av. Regional / Calz. Derecha,81,20.878883782009193
+9.940000000000001,Av. Regional Oriental >(N),304,20.878883782009193
+10.34,Av. Regional / Calz Izquierda,173,20.878883782009193
+26.389999999999997,Av. Regional / Calz. Izquierda,135,20.878883782009193
+8.6,Av. Regional Oriental,268,20.878883782009193
+10.74,Av. Regional Oriental >(N),272,20.878883782009193
+9.39,Av. Regional / Calz Izquierda,194,20.878883782009193
+12.15,Av. Regional Oriental >(N),238,20.878883782009193
+24.240000000000002,Av. Regional / Calz Izquierda,236,20.878883782009193
+26.169999999999998,Av. Regional / Calz. Izquierda,121,20.878883782009193
+12.09,Av. Regional Oriental,179,20.878883782009193
+21.0,Av. Regional / Calz Izquierda,196,20.878883782009193
+27.7,Av. Regional / Calz. Izquierda,111,20.878883782009193
+12.37,Av. Regional Oriental >(N),233,20.878883782009193
+11.469999999999999,Av. Regional / Calz Izquierda,153,20.878883782009193
+33.68,Av. Regional / Calz. Izquierda,87,20.878883782009193
+16.2,Av. Regional Oriental >(N),248,20.878883782009193
+12.540000000000001,Av. Regional Oriental,171,20.878883782009193
+36.489999999999995,Av. Regional / Calz. Izquierda,66,20.878883782009193
+12.6,Av. Regional Oriental,170,20.878883782009193
+21.68,Av. Regional / Calz Izquierda,152,20.878883782009193
+37.519999999999996,Av. Regional / Calz. Izquierda,62,20.878883782009193
+12.010000000000002,Av. Regional Oriental,181,20.878883782009193
+25.909999999999997,Av. Regional Occidental / Calz Derecha >(S),75,20.878883782009193
+13.179999999999998,Av. Regional Oriental,161,20.878883782009193
+21.93,Av. Regional Occidental >(N),143,20.878883782009193
+11.66,Av. Regional Oriental >(N),246,20.878883782009193
+36.67,Av. Regional / Calz. Derecha,79,20.878883782009193
+12.28,Av. Regional Oriental,176,20.878883782009193
+12.510000000000002,Av. Regional Oriental >(N),230,20.878883782009193
+26.35,Av. Regional / Calz Izquierda,207,20.878883782009193
+19.42,Av. Regional Occidental / Calz Derecha >(S),121,20.878883782009193
+14.470000000000002,Av. Regional Oriental,143,20.878883782009193
+14.319999999999999,Av. Regional Oriental,145,20.878883782009193
+12.22,Av. Regional Oriental >(N),233,20.878883782009193
+44.14,Av. Regional / Calz. Izquierda,46,20.878883782009193
+13.76,Av. Regional Oriental >(N),200,20.878883782009193
+27.4,Av. Regional / Calz Izquierda,165,20.878883782009193
+17.2,Av. Regional Occidental / Calz Derecha >(S),144,20.878883782009193
+11.84,Av. Regional Oriental,184,20.878883782009193
+31.4,Av. Regional / Calz. Izquierda,274,20.878883782009193
+29.790000000000003,Av. Regional / Calz Izquierda,143,20.878883782009193
+19.93,Av. Regional Occidental / Calz Derecha >(S),116,20.878883782009193
+29.04,Av. Regional Occidental >(N),106,20.878883782009193
+30.6,Av. Regional / Calz. Izquierda,287,20.878883782009193
+17.7,Av. Regional Oriental,110,20.878883782009193
+32.69,Av. Regional / Calz Izquierda,121,20.878883782009193
+29.85,Av. Regional / Calz. Izquierda,300,20.878883782009193
+18.18,Av. Regional Oriental,106,20.878883782009193
+24.630000000000003,Av. Regional Occidental >(N),166,20.878883782009193
+31.4,Av. Regional / Calz. Izquierda,324,20.878883782009193
+20.119999999999997,Av. Regional Occidental / Calz Derecha >(S),114,20.878883782009193
+25.880000000000003,Av. Regional / Calz. Izquierda,322,20.878883782009193
+17.78,Av. Regional Oriental,109,20.878883782009193
+35.54,Av. Regional / Calz Izquierda,108,20.878883782009193
+30.32,Av. Regional Oriental >(N),90,20.878883782009193
+39.58,Av. Regional / Calz Izquierda,96,20.878883782009193
+22.28,Av. Regional / Calz. Izquierda,406,20.878883782009193
+39.95,Av. Regional / Calz Izquierda,94,20.878883782009193
+27.869999999999997,Av. Regional / Calz. Derecha,417,20.878883782009193
+39.53,Av. Regional / Calz Izquierda,96,20.878883782009193
+24.880000000000003,Av. Regional / Calz. Derecha,381,20.878883782009193
+22.04,Av. Regional / Calz. Izquierda,412,20.878883782009193
+37.66,Av. Regional / Calz Izquierda,107,20.878883782009193
+20.78,Av. Regional / Calz. Derecha,383,20.878883782009193
+23.220000000000002,Av. Regional / Calz. Izquierda,363,20.878883782009193
+17.55,Av. Regional Oriental,111,20.878883782009193
+24.830000000000002,Av. Regional Occidental / Calz Derecha >(S),101,20.878883782009193
+20.45,Av. Regional Occidental >(N),247,20.878883782009193
+15.709999999999999,Av. Regional Oriental,129,20.878883782009193
+21.810000000000002,Av. Regional Oriental,82,20.878883782009193
+16.43,Av. Regional Occidental >(N),211,20.878883782009193
+35.440000000000005,Av. Regional / Calz Izquierda,122,20.878883782009193
+24.98,Av. Regional / Calz. Derecha,286,20.878883782009193
+30.610000000000003,Av. Regional / Calz. Derecha,287,20.878883782009193
+17.62,Av. Regional Occidental >(N),188,20.878883782009193
+34.769999999999996,Av. Regional / Calz. Izquierda,82,20.878883782009193
+37.43,Av. Regional / Calz. Izquierda,67,20.878883782009193
+15.7,Av. Regional Occidental >(N),201,20.878883782009193
+31.78,Av. Regional / Calz. Derecha,218,20.878883782009193
+17.32,Av. Regional Occidental >(N),195,20.878883782009193
+12.22,Av. Regional Oriental >(N),359,20.878883782009193
+36.05,Av. Regional / Calz Izquierda,117,20.878883782009193
+20.21,Av. Regional Oriental,91,20.878883782009193
+45.69,Av. Regional / Calz. Izquierda,42,20.878883782009193
+41.99,Av. Regional / Calz. Derecha,63,20.878883782009193
+45.269999999999996,Av. Regional / Calz. Izquierda,43,20.878883782009193
+13.809999999999999,Av. Regional Oriental >(N),307,20.878883782009193
+20.740000000000002,Av. Regional Occidental / Calz Derecha >(S),109,20.878883782009193
+17.59,Av. Regional Oriental,111,20.878883782009193
+18.79,Av. Regional Occidental >(N),171,20.878883782009193
+45.809999999999995,Av. Regional / Calz. Izquierda,42,20.878883782009193
+22.1,Av. Regional / Calz. Izquierda,171,20.878883782009193
+3.4,Av. Regional Occidental / Calz Izquierda >(S),1001,20.878883782009193
+36.239999999999995,Av. Regional / Calz. Derecha,137,20.878883782009193
+17.36,Av. Regional Oriental >(N),226,20.878883782009193
+11.86,Av. Regional Occidental / Calz Derecha >(S),235,20.878883782009193
+21.06,Av. Regional Oriental,86,20.878883782009193
+19.09,Av. Regional Occidental >(N),248,20.878883782009193
+16.76,Av. Regional Occidental >(N),310,20.878883782009193
+26.190000000000005,Av. Regional / Calz. Izquierda,251,20.878883782009193
+15.639999999999997,Av. Regional Occidental >(N),347,20.878883782009193
+22.8,Av. Regional / Calz. Izquierda,252,20.878883782009193
+12.52,Av. Regional Occidental / Calz Derecha >(S),271,20.878883782009193
+15.060000000000002,Av. Regional Occidental >(N),367,20.878883782009193
+15.7,Av. Regional Occidental / Calz Derecha >(S),202,20.878883782009193
+28.940000000000005,Av. Regional / Calz Izquierda,177,20.878883782009193
+33.37,Av. Regional / Calz. Derecha,293,20.878883782009193
+15.020000000000001,Av. Regional Occidental >(N),369,20.878883782009193
+46.370000000000005,Av. Regional / Calz. Izquierda,40,20.878883782009193
+23.58,Av. Regional / Calz. Izquierda,239,20.878883782009193
+33.86,Av. Regional / Calz. Derecha,284,20.878883782009193
+24.22,Av. Regional / Calz. Izquierda,230,20.878883782009193
+9.66,Av. Regional Occidental / Calz Izquierda >(S),438,20.878883782009193
+21.54,Av. Regional Occidental / Calz Derecha >(S),103,20.878883782009193
+19.32,Av. Regional Oriental,97,20.878883782009193
+45.21,Av. Regional / Calz. Izquierda,43,20.878883782009193
+15.809999999999999,Av. Regional Occidental / Calz Izquierda >(S),392,20.878883782009193
+36.8,Av. Regional / Calz. Derecha,234,20.878883782009193
+44.01,Av. Regional / Calz. Izquierda,47,20.878883782009193
+30.339999999999996,Av. Regional / Calz Izquierda,163,20.878883782009193
+36.62,Av. Regional / Calz. Derecha,224,20.878883782009193
+18.04,Av. Regional Oriental,107,20.878883782009193
+28.45,Av. Regional / Calz Izquierda,182,20.878883782009193
+35.75,Av. Regional / Calz. Derecha,237,20.878883782009193
+18.15,Av. Regional Occidental >(N),271,20.878883782009193
+23.990000000000002,Av. Regional / Calz. Izquierda,233,20.878883782009193
+17.669999999999998,Av. Regional Occidental >(N),322,20.878883782009193
+13.76,Av. Regional Oriental >(N),308,20.878883782009193
+12.26,Av. Regional Occidental / Calz Izquierda >(S),242,20.878883782009193
+24.619999999999997,Av. Regional / Calz Izquierda,230,20.878883782009193
+18.759999999999998,Av. Regional Oriental,101,20.878883782009193
+19.16,Av. Regional / Calz. Izquierda,210,20.878883782009193
+19.65,Av. Regional Oriental,95,20.878883782009193
+19.27,Av. Regional / Calz. Izquierda,209,20.878883782009193
+16.13,Av. Regional Occidental / Calz Izquierda >(S),167,20.878883782009193
+19.08,Av. Regional Occidental >(N),281,20.878883782009193
+23.630000000000003,Av. Regional / Calz. Izquierda,238,20.878883782009193
+11.530000000000001,Av. Regional Oriental >(N),386,20.878883782009193
+42.18,Av. Regional / Calz. Izquierda,52,20.878883782009193
+36.8,Av. Regional / Calz. Derecha,222,20.878883782009193
+19.580000000000002,Av. Regional Occidental >(N),237,20.878883782009193
+21.91,Av. Regional / Calz. Izquierda,224,20.878883782009193
+25.59,Av. Regional / Calz Izquierda,217,20.878883782009193
+18.45,Av. Regional Occidental >(N),263,20.878883782009193
+14.709999999999999,Av. Regional Oriental,140,20.878883782009193
+17.54,Av. Regional Occidental >(N),288,20.878883782009193
+21.06,Av. Regional / Calz Izquierda,290,20.878883782009193
+17.64,Av. Regional Oriental,110,20.878883782009193
+15.969999999999999,Av. Regional Oriental >(N),253,20.878883782009193
+37.440000000000005,Av. Regional / Calz. Izquierda,163,20.878883782009193
+20.919999999999998,Av. Regional / Calz Izquierda,293,20.878883782009193
+27.169999999999998,Av. Regional / Calz. Derecha,188,20.878883782009193
+15.63,Av. Regional Oriental >(N),261,20.878883782009193
+8.65,Av. Regional / Calz Derecha,128,20.878883782009193
+40.02,Av. Regional / Calz. Izquierda,139,20.878883782009193
+12.510000000000002,Av. Regional Oriental >(N),348,20.878883782009193
+26.72,Av. Regional / Calz. Derecha,191,20.878883782009193
+19.09,Av. Regional Occidental >(N),293,20.878883782009193
+12.11,Av. Regional Oriental >(N),363,20.878883782009193
+19.96,Av. Regional Occidental >(N),259,20.878883782009193
+15.280000000000001,Av. Regional Oriental,133,20.878883782009193
+26.21,Av. Regional / Calz Izquierda,209,20.878883782009193
+14.570000000000002,Av. Regional Oriental,142,20.878883782009193
+14.459999999999999,Av. Regional Oriental >(N),289,20.878883782009193
+14.639999999999997,Av. Regional Oriental,141,20.878883782009193
+14.440000000000001,Av. Regional Oriental >(N),290,20.878883782009193
+22.990000000000002,Av. Regional / Calz Izquierda,255,20.878883782009193
+17.02,Av. Regional Oriental,116,20.878883782009193
+22.44,Av. Regional / Calz Izquierda,265,20.878883782009193
+17.119999999999997,Av. Regional Oriental,115,20.878883782009193
+13.48,Av. Regional Oriental >(N),317,20.878883782009193
+21.830000000000002,Av. Regional / Calz Izquierda,276,20.878883782009193
+22.9,Av. Regional / Calz. Derecha,224,20.878883782009193
+16.9,Av. Regional Oriental,117,20.878883782009193
+14.7,Av. Regional Oriental >(N),283,20.878883782009193
+21.130000000000003,Av. Regional / Calz Izquierda,289,20.878883782009193
+15.189999999999998,Av. Regional Oriental >(N),271,20.878883782009193
+34.959999999999994,Av. Regional / Calz. Izquierda,81,20.878883782009193
+19.19,Av. Regional Occidental >(N),305,20.878883782009193
+15.280000000000001,Av. Regional Oriental >(N),269,20.878883782009193
+18.09,Av. Regional / Calz Izquierda,358,20.878883782009193
+19.54,Av. Regional Occidental >(N),295,20.878883782009193
+20.9,Av. Regional Oriental,87,20.878883782009193
+40.769999999999996,Av. Regional / Calz. Izquierda,133,20.878883782009193
+15.169999999999998,Av. Regional Oriental >(N),271,20.878883782009193
+18.919999999999998,Av. Regional Occidental >(N),286,20.878883782009193
+22.03,Av. Regional Oriental,80,20.878883782009193
+41.13,Av. Regional / Calz. Izquierda,131,20.878883782009193
+15.189999999999998,Av. Regional Oriental >(N),271,20.878883782009193
+41.99,Av. Regional / Calz. Izquierda,124,20.878883782009193
+15.61,Av. Regional Oriental >(N),261,20.878883782009193
+19.17,Av. Regional / Calz Izquierda,331,20.878883782009193
+16.65,Av. Regional / Calz. Derecha,357,20.878883782009193
+17.39,Av. Regional Occidental >(N),292,20.878883782009193
+33.190000000000005,Av. Regional / Calz. Derecha,111,20.878883782009193
+17.45,Av. Regional / Calz. Derecha,335,20.878883782009193
+21.119999999999997,Av. Regional Oriental,86,20.878883782009193
+34.839999999999996,Av. Regional / Calz. Derecha,100,20.878883782009193
+17.43,Av. Regional Occidental >(N),330,20.878883782009193
+18.43,Av. Regional / Calz Izquierda,349,20.878883782009193
+30.52,Av. Regional / Calz. Izquierda,105,20.878883782009193
+18.990000000000002,Av. Regional / Calz Izquierda,335,20.878883782009193
+44.87,Av. Regional / Calz. Derecha,61,20.878883782009193
+30.660000000000004,Av. Regional / Calz. Izquierda,104,20.878883782009193
+33.83,Av. Regional / Calz. Izquierda,87,20.878883782009193
+13.559999999999999,Av. Regional Oriental >(N),314,20.878883782009193
+12.7,Av. Regional Oriental >(N),342,20.878883782009193
+21.21,Av. Regional / Calz Izquierda,287,20.878883782009193
+20.32,Av. Regional / Calz Izquierda,305,20.878883782009193
+11.3,Av. Regional / Calz. Derecha,510,20.878883782009193
+14.739999999999998,Av. Regional Oriental,140,20.878883782009193
+14.52,Av. Regional Oriental >(N),288,20.878883782009193
+19.830000000000002,Av. Regional / Calz Izquierda,316,20.878883782009193
+11.91,Av. Regional / Calz. Derecha,478,20.878883782009193
+18.439999999999998,Av. Regional Occidental >(N),264,20.878883782009193
+16.080000000000002,Av. Regional Oriental >(N),251,20.878883782009193
+16.439999999999998,Av. Regional Oriental >(N),243,20.878883782009193
+15.370000000000001,Av. Regional Oriental >(N),267,20.878883782009193
+17.78,Av. Regional / Calz. Derecha,283,20.878883782009193
+19.54,Av. Regional / Calz. Derecha,247,20.878883782009193
+18.86,Av. Regional Occidental >(N),287,20.878883782009193
+15.180000000000001,Av. Regional / Calz Izquierda,451,20.878883782009193
+17.43,Av. Regional / Calz. Derecha,274,20.878883782009193
+19.89,Av. Regional Occidental >(N),260,20.878883782009193
+17.07,Av. Regional / Calz. Derecha,283,20.878883782009193
+14.639999999999997,Av. Regional Oriental >(N),284,20.878883782009193
+12.89,Av. Regional / Calz. Derecha,229,20.878883782009193
+14.270000000000001,Av. Regional Occidental >(N),295,20.878883782009193
+16.479999999999997,Av. Regional Oriental >(N),243,20.878883782009193
+16.65,Av. Regional Oriental >(N),239,20.878883782009193
+10.4,Av. Regional / Calz Izquierda,716,20.878883782009193
+9.82,Av. Regional / Calz Izquierda,766,20.878883782009193
+16.77,Av. Regional Occidental >(N),367,20.878883782009193
+17.729999999999997,Av. Regional Occidental >(N),320,20.878883782009193
+12.61,Av. Regional Oriental >(N),345,20.878883782009193
+15.91,Av. Regional Occidental >(N),337,20.878883782009193
+15.989999999999998,Av. Regional Oriental >(N),253,20.878883782009193
+16.15,Av. Regional Occidental >(N),329,20.878883782009193
+7.110000000000001,Av. Regional / Calz Izquierda,1105,20.878883782009193
+17.14,Av. Regional Oriental >(N),230,20.878883782009193
+17.97,Av. Regional Oriental >(N),135,20.878883782009193
+17.080000000000002,Av. Regional Oriental >(N),145,20.878883782009193
+16.76,Av. Regional Occidental >(N),367,20.878883782009193
+7.67,Av. Regional / Calz Izquierda,1015,20.878883782009193
+7.339999999999999,Av. Regional / Calz Izquierda,1066,20.878883782009193
+16.61,Av. Regional Occidental >(N),357,20.878883782009193
+16.6,Av. Regional Occidental >(N),357,20.878883782009193
+30.95,Av. Regional Oriental >(N),87,20.878883782009193
+25.82,Av. Regional Oriental >(N),122,20.878883782009193
+20.49,Av. Regional Oriental >(N),177,20.878883782009193
+22.6,Av. Regional / Calz Izquierda,234,20.878883782009193
